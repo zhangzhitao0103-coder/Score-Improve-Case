@@ -1,0 +1,16 @@
+# Local/generated previews
+preview-*.png
+outputs/
+
+# Large source archives and unreferenced working folders
+*.zip
+*.7z
+提分案例汇总/
+剩余主理人重命名分类后的图片文件/
+提分截图-图片+ppt/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

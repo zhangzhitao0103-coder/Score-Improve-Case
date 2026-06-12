@@ -3,7 +3,9 @@ const fs = require("fs");
 const path = require("path");
 const sharp = require("sharp");
 
-const rootDir = path.join(__dirname, "提分案例汇总");
+const rootDir = process.env.CASE_SOURCE_DIR
+  ? path.resolve(process.env.CASE_SOURCE_DIR)
+  : path.join(__dirname, "提分案例汇总");
 const outputDir = path.join(__dirname, "outputs", "r2-assets");
 const manifestPath = path.join(outputDir, "upload-manifest.json");
 const publicBaseUrl = (process.env.R2_PUBLIC_BASE_URL || "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev").replace(/\/$/, "");
@@ -28,7 +30,9 @@ function isImage(fileName) {
 }
 
 function toWebPath(filePath) {
-  return path.relative(__dirname, filePath).split(path.sep).map(encodeURIComponent).join("/");
+  return ["提分案例汇总", ...path.relative(rootDir, filePath).split(path.sep)]
+    .map(encodeURIComponent)
+    .join("/");
 }
 
 function parseTeacher(folderName) {
@@ -163,6 +167,10 @@ async function mapLimit(items, limit, worker) {
 }
 
 async function main() {
+  if (!fs.existsSync(rootDir)) {
+    throw new Error(`Source directory does not exist: ${rootDir}`);
+  }
+
   const manifest = [];
 
   const teachers = fs.readdirSync(rootDir, { withFileTypes: true })

@@ -30,8 +30,8 @@ const teachers = [...data.teachers].sort((a, b) => {
 let activeTeacher = teachers[0];
 
 const ANALYTICS_CONTEXT = {
-  project_name: "提分案例筛选页",
-  module_name: "teacher-score-case",
+  project_name: "老师提分案例筛选页面",
+  module_name: "teacher-score-case-filter",
 };
 
 function trackEvent(eventName, properties = {}) {

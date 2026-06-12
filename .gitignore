@@ -1,6 +1,10 @@
 # Local/generated previews
 preview-*.png
 outputs/
+.env
+.env.*
+!.env.r2.example
+node_modules/
 
 # Large source archives and unreferenced working folders
 *.zip

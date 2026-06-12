@@ -1,0 +1,17 @@
+{
+  "name": "score-improve-case",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "generate:data": "node generate-data.js",
+    "build:r2-assets": "node build-r2-assets.js",
+    "upload:r2-assets": "node upload-r2-assets.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.735.0",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "wrangler": "^4.100.0"
+  }
+}

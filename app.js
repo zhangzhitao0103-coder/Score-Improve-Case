@@ -28,6 +28,8 @@ const teachers = [...data.teachers].sort((a, b) => {
   return rankA - rankB || collator.compare(a.name, b.name);
 });
 let activeTeacher = teachers[0];
+const CASE_PAGE_SIZE = 20;
+let visibleCaseCount = CASE_PAGE_SIZE;
 
 const ANALYTICS_CONTEXT = {
   project_name: "老师提分案例筛选页面",
@@ -63,13 +65,25 @@ function filterAnalytics(teacher) {
 function imageAnalytics(item, context = {}) {
   return {
     image_name: item.name || "",
-    image_src: item.src || "",
+    image_src: imageUrl(item),
     province: item.province || context.province || "",
     score_band: item.band || context.score_band || "",
     score_text: item.scoreText || "",
     content_type: context.content_type || "image",
     ...context,
   };
+}
+
+function thumbUrl(item) {
+  return item.thumbUrl || item.src;
+}
+
+function previewUrl(item) {
+  return item.previewUrl || item.imageUrl || item.src;
+}
+
+function imageUrl(item) {
+  return item.imageUrl || item.previewUrl || item.src;
 }
 
 function teacherLabel(teacher) {
@@ -136,6 +150,7 @@ function updateScoreMenu(teacher) {
   const options = [ALL, ...teacher.scoreBands.map((band) => band.name)];
   setMenu(scoreMenu, options, (value) => {
     scoreInput.value = value;
+    visibleCaseCount = CASE_PAGE_SIZE;
     trackEvent("score_filter_changed", filterAnalytics(activeTeacher));
     renderCases(activeTeacher);
   });
@@ -145,6 +160,7 @@ function updateScoreMenu(teacher) {
 function updateProvinceMenu() {
   setMenu(provinceMenu, [ALL, ...data.provinces], (value) => {
     provinceInput.value = value;
+    visibleCaseCount = CASE_PAGE_SIZE;
     trackEvent("province_filter_changed", filterAnalytics(activeTeacher));
     renderCases(activeTeacher);
   });
@@ -160,9 +176,10 @@ function imageCard(item, title, meta = "", context = {}) {
   preview.addEventListener("click", () => openLightbox(item, meta || title, context));
 
   const image = document.createElement("img");
-  image.src = item.src;
+  image.src = thumbUrl(item);
   image.alt = title;
   image.loading = "lazy";
+  image.decoding = "async";
   preview.appendChild(image);
 
   const footer = document.createElement("div");
@@ -210,9 +227,10 @@ function renderCases(teacher) {
   const cases = matchedCases(teacher);
   const score = scoreInput.value.trim() || ALL;
   const province = provinceInput.value.trim() || ALL;
+  const visibleCases = cases.slice(0, visibleCaseCount);
 
   caseGrid.innerHTML = "";
-  cases.forEach((item) => {
+  visibleCases.forEach((item) => {
     const provinceText = item.province || "未标省份";
     const meta = `${teacher.name}｜${provinceText}｜${item.scoreText}`;
     caseGrid.appendChild(imageCard(item, item.name, meta, {
@@ -224,16 +242,35 @@ function renderCases(teacher) {
     }));
   });
 
+  if (cases.length > visibleCases.length) {
+    const loadMore = document.createElement("button");
+    loadMore.className = "load-more-btn";
+    loadMore.type = "button";
+    loadMore.textContent = `继续加载 ${Math.min(CASE_PAGE_SIZE, cases.length - visibleCases.length)} 张`;
+    loadMore.addEventListener("click", () => {
+      visibleCaseCount += CASE_PAGE_SIZE;
+      trackEvent("case_load_more_clicked", {
+        ...filterAnalytics(activeTeacher),
+        visible_count: Math.min(visibleCaseCount, cases.length),
+        result_count: cases.length,
+      });
+      renderCases(activeTeacher);
+    });
+    caseGrid.appendChild(loadMore);
+  }
+
   emptyState.hidden = cases.length !== 0;
   const scoreText = score === ALL ? "全部分数段" : score;
   const provinceText = province === ALL ? "全国" : province;
-  resultMeta.textContent = `已匹配：${teacher.name} / ${scoreText} / ${provinceText}，共找到 ${cases.length} 条结果`;
+  const visibleText = cases.length > visibleCases.length ? `，当前显示 ${visibleCases.length} 条` : "";
+  resultMeta.textContent = `已匹配：${teacher.name} / ${scoreText} / ${provinceText}，共找到 ${cases.length} 条结果${visibleText}`;
 }
 
 function applyTeacherChange(source = "manual") {
   const nextTeacher = getTeacherFromInput();
   const changed = nextTeacher.name !== activeTeacher.name || nextTeacher.subject !== activeTeacher.subject;
   activeTeacher = nextTeacher;
+  visibleCaseCount = CASE_PAGE_SIZE;
   teacherInput.value = teacherLabel(activeTeacher);
   updateScoreMenu(activeTeacher);
   renderProfiles(activeTeacher);
@@ -249,6 +286,7 @@ function applyTeacherChange(source = "manual") {
 
 function resetFilters() {
   activeTeacher = teachers[0];
+  visibleCaseCount = CASE_PAGE_SIZE;
   teacherInput.value = teacherLabel(activeTeacher);
   scoreInput.value = ALL;
   provinceInput.value = ALL;
@@ -260,7 +298,7 @@ function resetFilters() {
 
 function openLightbox(item, caption, context = {}) {
   trackEvent("image_clicked", imageAnalytics(item, context));
-  lightboxImage.src = item.src;
+  lightboxImage.src = previewUrl(item);
   lightboxImage.alt = caption;
   lightboxCaption.textContent = caption;
   lightbox.setAttribute("aria-hidden", "false");
@@ -279,8 +317,9 @@ async function copyImage(item, button, context = {}) {
   button.classList.add("copying");
 
   try {
+    const sourceUrl = imageUrl(item);
     if (navigator.clipboard && window.ClipboardItem) {
-      const response = await fetch(item.src);
+      const response = await fetch(sourceUrl);
       const blob = await response.blob();
       const bitmap = await createImageBitmap(blob);
       const canvas = document.createElement("canvas");
@@ -291,12 +330,12 @@ async function copyImage(item, button, context = {}) {
       await navigator.clipboard.write([new ClipboardItem({ "image/png": pngBlob })]);
       showToast("图片已复制");
     } else {
-      await navigator.clipboard.writeText(item.absolutePath || item.src);
+      await navigator.clipboard.writeText(sourceUrl);
       showToast("已复制图片路径");
     }
     trackEvent("image_copy_succeeded", properties);
   } catch (error) {
-    await navigator.clipboard.writeText(item.absolutePath || decodeURIComponent(item.src));
+    await navigator.clipboard.writeText(decodeURIComponent(imageUrl(item)));
     showToast("浏览器限制图片复制，已复制路径");
     trackEvent("image_copy_fallback_used", {
       ...properties,
@@ -353,11 +392,13 @@ function init() {
   teacherInput.addEventListener("change", () => applyTeacherChange("teacher_input_change"));
   scoreInput.addEventListener("change", () => {
     closeMenus();
+    visibleCaseCount = CASE_PAGE_SIZE;
     trackEvent("score_filter_changed", filterAnalytics(activeTeacher));
     renderCases(activeTeacher);
   });
   provinceInput.addEventListener("change", () => {
     closeMenus();
+    visibleCaseCount = CASE_PAGE_SIZE;
     trackEvent("province_filter_changed", filterAnalytics(activeTeacher));
     renderCases(activeTeacher);
   });

@@ -109,6 +109,14 @@
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
   <script src="./data.js"></script>
+  <script>
+    (() => {
+      const hiddenTeachers = new Set(["刘雯韬", "李辉", "赵晨曦", "乔凯"]);
+      if (window.CASE_DATA && Array.isArray(window.CASE_DATA.teachers)) {
+        window.CASE_DATA.teachers = window.CASE_DATA.teachers.filter((teacher) => !hiddenTeachers.has(teacher.name));
+      }
+    })();
+  </script>
   <script src="./app.js"></script>
 </body>
 </html>

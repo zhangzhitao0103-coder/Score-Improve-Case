@@ -9,6 +9,10 @@ const rootDir = process.env.CASE_SOURCE_DIR
 const outputDir = path.join(__dirname, "outputs", "r2-assets");
 const manifestPath = path.join(outputDir, "upload-manifest.json");
 const publicBaseUrl = (process.env.R2_PUBLIC_BASE_URL || "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev").replace(/\/$/, "");
+const forceFolders = new Set((process.env.CASE_FORCE_FOLDERS || "")
+  .split(/[,\n]/)
+  .map((item) => item.trim())
+  .filter(Boolean));
 
 const imageExts = new Set([".png", ".jpg", ".jpeg", ".webp"]);
 const subjects = ["语文", "数学", "英语", "物理", "化学", "生物", "历史", "地理", "政治"];
@@ -91,6 +95,7 @@ function hashKey(webPath) {
 
 function assetInfo(fullPath) {
   const webPath = toWebPath(fullPath);
+  const sourceFolder = path.relative(rootDir, fullPath).split(path.sep)[0] || "";
   const ext = path.extname(fullPath).toLowerCase();
   const hash = hashKey(webPath);
   const originalKey = `originals/${hash}${ext === ".jpeg" ? ".jpg" : ext}`;
@@ -99,6 +104,7 @@ function assetInfo(fullPath) {
 
   return {
     webPath,
+    sourceFolder,
     originalKey,
     thumbKey,
     previewKey,
@@ -122,6 +128,7 @@ function publicImageItem(fullPath) {
     imageUrl: info.imageUrl,
     _asset: {
       localPath: fullPath,
+      sourceFolder: info.sourceFolder,
       originalKey: info.originalKey,
       thumbKey: info.thumbKey,
       previewKey: info.previewKey,
@@ -144,9 +151,9 @@ function cleanForData(item) {
   return publicItem;
 }
 
-async function ensureWebp(inputPath, outputPath, width, quality) {
+async function ensureWebp(inputPath, outputPath, width, quality, force = false) {
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-  if (fs.existsSync(outputPath)) return;
+  if (fs.existsSync(outputPath) && !force) return;
 
   await sharp(inputPath, { failOn: "none" })
     .rotate()
@@ -216,8 +223,9 @@ async function main() {
 
   console.log(`Generating thumbnails/previews for ${manifest.length} images...`);
   await mapLimit(manifest, 4, async (asset, currentIndex) => {
-    await ensureWebp(asset.localPath, asset.thumbPath, 560, 68);
-    await ensureWebp(asset.localPath, asset.previewPath, 1600, 78);
+    const force = forceFolders.has(asset.sourceFolder);
+    await ensureWebp(asset.localPath, asset.thumbPath, 560, 68, force);
+    await ensureWebp(asset.localPath, asset.previewPath, 1600, 78, force);
     if (currentIndex % 100 === 0 || currentIndex === manifest.length) {
       console.log(`Processed ${currentIndex}/${manifest.length}`);
     }

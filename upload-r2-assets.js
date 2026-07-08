@@ -70,6 +70,13 @@ function writeState(uploaded) {
   fs.writeFileSync(statePath, JSON.stringify({ uploaded: [...uploaded].sort() }, null, 2), "utf8");
 }
 
+function forcedFolderSet() {
+  return new Set((process.env.CASE_FORCE_FOLDERS || "")
+    .split(/[,\n]/)
+    .map((item) => item.trim())
+    .filter(Boolean));
+}
+
 async function main() {
   loadEnvFile(envPath);
 
@@ -93,25 +100,29 @@ async function main() {
   });
 
   const manifest = JSON.parse(fs.readFileSync(manifestPath, "utf8"));
+  const forceFolders = forcedFolderSet();
   const uploadItems = manifest.flatMap((asset) => [
     {
       key: asset.thumbKey,
       filePath: asset.thumbPath,
       contentType: "image/webp",
+      force: forceFolders.has(asset.sourceFolder),
     },
     {
       key: asset.previewKey,
       filePath: asset.previewPath,
       contentType: "image/webp",
+      force: forceFolders.has(asset.sourceFolder),
     },
     {
       key: asset.originalKey,
       filePath: asset.localPath,
       contentType: contentTypeFor(asset.localPath, asset.contentType),
+      force: forceFolders.has(asset.sourceFolder),
     },
   ]);
   const uploaded = readState();
-  const remaining = uploadItems.filter((item) => !uploaded.has(item.key));
+  const remaining = uploadItems.filter((item) => item.force || !uploaded.has(item.key));
 
   console.log(`Uploading ${remaining.length}/${uploadItems.length} objects to ${bucket}...`);
   await mapLimit(remaining, concurrency, async (item, currentIndex) => {

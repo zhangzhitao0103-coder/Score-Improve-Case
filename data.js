@@ -1,5 +1,5 @@
 window.CASE_DATA = {
-  "generatedAt": "2026-06-12T09:57:39.375Z",
+  "generatedAt": "2026-07-08T04:29:48.742Z",
   "provinces": [
     "北京",
     "天津",
@@ -10189,14 +10189,14 @@ window.CASE_DATA = {
               "scoreText": "20分到47分"
             },
             {
-              "name": "胡源_安徽_31到90",
-              "fileName": "胡源_安徽_31到90.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4320845713845dff.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4320845713845dff.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4320845713845dff.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4320845713845dff.png",
+              "name": "胡源_安徽_31分到90分",
+              "fileName": "胡源_安徽_31分到90分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/29cea07640ed2b4a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/29cea07640ed2b4a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/29cea07640ed2b4a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/29cea07640ed2b4a.png",
               "province": "安徽",
-              "scoreText": "31到90"
+              "scoreText": "31分到90分"
             },
             {
               "name": "胡源_安徽_50到95",
@@ -10519,14 +10519,14 @@ window.CASE_DATA = {
               "scoreText": "15分到50分"
             },
             {
-              "name": "胡源_贵州_50到100",
-              "fileName": "胡源_贵州_50到100.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/df9ad184bba81030.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/df9ad184bba81030.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/df9ad184bba81030.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/df9ad184bba81030.png",
+              "name": "胡源_贵州_50分到100分",
+              "fileName": "胡源_贵州_50分到100分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b257efc54cb52428.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b257efc54cb52428.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b257efc54cb52428.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b257efc54cb52428.png",
               "province": "贵州",
-              "scoreText": "50到100"
+              "scoreText": "50分到100分"
             },
             {
               "name": "胡源_贵州_55到84",
@@ -10699,14 +10699,14 @@ window.CASE_DATA = {
               "scoreText": "50分到85分"
             },
             {
-              "name": "胡源_河南_51到83",
-              "fileName": "胡源_河南_51到83.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/08d1bf9d0f8fc392.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/08d1bf9d0f8fc392.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/08d1bf9d0f8fc392.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/08d1bf9d0f8fc392.png",
+              "name": "胡源_河南_51分到83分",
+              "fileName": "胡源_河南_51分到83分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9e0b620c79236be4.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9e0b620c79236be4.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/9e0b620c79236be4.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/9e0b620c79236be4.png",
               "province": "河南",
-              "scoreText": "51到83"
+              "scoreText": "51分到83分"
             },
             {
               "name": "胡源_河南_数学从50多分提升至90多分",
@@ -11049,14 +11049,14 @@ window.CASE_DATA = {
               "scoreText": "数学20多分到61分"
             },
             {
-              "name": "胡源_内蒙古_52到105",
-              "fileName": "胡源_内蒙古_52到105.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/93b4f6906acbf70d.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/93b4f6906acbf70d.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/93b4f6906acbf70d.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/93b4f6906acbf70d.png",
+              "name": "胡源_内蒙古_52分到105分",
+              "fileName": "胡源_内蒙古_52分到105分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/27eec9745a580051.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/27eec9745a580051.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/27eec9745a580051.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/27eec9745a580051.png",
               "province": "内蒙古",
-              "scoreText": "52到105"
+              "scoreText": "52分到105分"
             },
             {
               "name": "胡源_内蒙古_56分到105分",
@@ -11945,14 +11945,14 @@ window.CASE_DATA = {
               "scoreText": "数学从60多分提升至91分"
             },
             {
-              "name": "胡源_广西_60到84",
-              "fileName": "胡源_广西_60到84.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5cebb16596956451.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5cebb16596956451.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/5cebb16596956451.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/5cebb16596956451.png",
+              "name": "胡源_广西_60分到84分",
+              "fileName": "胡源_广西_60分到84分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1cf46239b99e9459.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1cf46239b99e9459.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/1cf46239b99e9459.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/1cf46239b99e9459.png",
               "province": "广西",
-              "scoreText": "60到84"
+              "scoreText": "60分到84分"
             },
             {
               "name": "胡源_广西_70到95",
@@ -12405,14 +12405,14 @@ window.CASE_DATA = {
               "scoreText": "78分到118分"
             },
             {
-              "name": "胡源_江苏_68到93",
-              "fileName": "胡源_江苏_68到93.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a97cc836d5c3f495.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a97cc836d5c3f495.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a97cc836d5c3f495.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a97cc836d5c3f495.png",
+              "name": "胡源_江苏_68分到93分",
+              "fileName": "胡源_江苏_68分到93分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/75782c96d2dc935b.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/75782c96d2dc935b.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/75782c96d2dc935b.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/75782c96d2dc935b.png",
               "province": "江苏",
-              "scoreText": "68到93"
+              "scoreText": "68分到93分"
             },
             {
               "name": "胡源_江苏_70到113",
@@ -12505,14 +12505,14 @@ window.CASE_DATA = {
               "scoreText": "65分到102分"
             },
             {
-              "name": "胡源_江西_80到96",
-              "fileName": "胡源_江西_80到96.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/99a9f786b78e823e.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/99a9f786b78e823e.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/99a9f786b78e823e.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/99a9f786b78e823e.png",
+              "name": "胡源_江西_80分到96分",
+              "fileName": "胡源_江西_80分到96分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0aa6e3c826dde7c4.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0aa6e3c826dde7c4.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0aa6e3c826dde7c4.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0aa6e3c826dde7c4.png",
               "province": "江西",
-              "scoreText": "80到96"
+              "scoreText": "80分到96分"
             },
             {
               "name": "胡源_辽宁_80到97",
@@ -12613,6 +12613,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3c1d384d4eee2513.png",
               "province": "宁夏",
               "scoreText": "80到111"
+            },
+            {
+              "name": "胡源_宁夏_89分到107分",
+              "fileName": "胡源_宁夏_89分到107分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/881075e6a03a5e24.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/881075e6a03a5e24.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/881075e6a03a5e24.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/881075e6a03a5e24.png",
+              "province": "宁夏",
+              "scoreText": "89分到107分"
             },
             {
               "name": "胡源_山东_60到130",
@@ -13711,14 +13721,14 @@ window.CASE_DATA = {
               "scoreText": "90分到104分"
             },
             {
-              "name": "胡源_江苏_92到107",
-              "fileName": "胡源_江苏_92到107.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/65033a7a8b57dc3e.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/65033a7a8b57dc3e.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/65033a7a8b57dc3e.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/65033a7a8b57dc3e.png",
+              "name": "胡源_江苏_92分到107分",
+              "fileName": "胡源_江苏_92分到107分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3099bd7dd921005d.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3099bd7dd921005d.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3099bd7dd921005d.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3099bd7dd921005d.png",
               "province": "江苏",
-              "scoreText": "92到107"
+              "scoreText": "92分到107分"
             },
             {
               "name": "胡源_江西_100到121",
@@ -13781,14 +13791,14 @@ window.CASE_DATA = {
               "scoreText": "92分到133分"
             },
             {
-              "name": "胡源_辽宁_109到138",
-              "fileName": "胡源_辽宁_109到138.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/bb84d01b11720a67.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/bb84d01b11720a67.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/bb84d01b11720a67.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/bb84d01b11720a67.png",
+              "name": "胡源_辽宁_109分到138分",
+              "fileName": "胡源_辽宁_109分到138分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/07ccb009bc416f9c.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/07ccb009bc416f9c.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/07ccb009bc416f9c.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/07ccb009bc416f9c.png",
               "province": "辽宁",
-              "scoreText": "109到138"
+              "scoreText": "109分到138分"
             },
             {
               "name": "胡源_辽宁_90到114",
@@ -14041,14 +14051,14 @@ window.CASE_DATA = {
               "scoreText": "90分到116分"
             },
             {
-              "name": "胡源_云南_100到140",
-              "fileName": "胡源_云南_100到140.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/cf471571f7d1568b.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/cf471571f7d1568b.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/cf471571f7d1568b.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/cf471571f7d1568b.png",
+              "name": "胡源_云南_100分到140分",
+              "fileName": "胡源_云南_100分到140分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/027d5f9afb1ba0b7.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/027d5f9afb1ba0b7.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/027d5f9afb1ba0b7.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/027d5f9afb1ba0b7.png",
               "province": "云南",
-              "scoreText": "100到140"
+              "scoreText": "100分到140分"
             },
             {
               "name": "胡源_浙江_100分到121分",
@@ -14437,24 +14447,14 @@ window.CASE_DATA = {
               "scoreText": "110分到120分"
             },
             {
-              "name": "胡源_浙江_116到141",
-              "fileName": "胡源_浙江_116到141.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c4e70e261e8d86dc.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c4e70e261e8d86dc.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/c4e70e261e8d86dc.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c4e70e261e8d86dc.png",
+              "name": "胡源_浙江_116分到141分",
+              "fileName": "胡源_浙江_116分到141分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3c981aa7efcc64d3.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3c981aa7efcc64d3.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3c981aa7efcc64d3.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3c981aa7efcc64d3.png",
               "province": "浙江",
-              "scoreText": "116到141"
-            },
-            {
-              "name": "胡源_浙江_116到141_2",
-              "fileName": "胡源_浙江_116到141_2.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9848a32c130bf1cb.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9848a32c130bf1cb.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/9848a32c130bf1cb.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/9848a32c130bf1cb.png",
-              "province": "浙江",
-              "scoreText": "116到141_2"
+              "scoreText": "116分到141分"
             }
           ]
         },
@@ -16843,346 +16843,6 @@ window.CASE_DATA = {
           "name": "40分以下",
           "cases": [
             {
-              "name": "①60分以下_李楠_20多分到58分",
-              "fileName": "①60分以下_李楠_20多分到58分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1f26c4c36840d7a8.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1f26c4c36840d7a8.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/1f26c4c36840d7a8.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/1f26c4c36840d7a8.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_20多分到58分"
-            },
-            {
-              "name": "①60分以下_李楠_20多分到61分",
-              "fileName": "①60分以下_李楠_20多分到61分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/55543887fd46ce51.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/55543887fd46ce51.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/55543887fd46ce51.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/55543887fd46ce51.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_20多分到61分"
-            },
-            {
-              "name": "①60分以下_李楠_20分到40分",
-              "fileName": "①60分以下_李楠_20分到40分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ec788d127398b35f.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ec788d127398b35f.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ec788d127398b35f.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ec788d127398b35f.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_20分到40分"
-            },
-            {
-              "name": "①60分以下_李楠_29分到72分",
-              "fileName": "①60分以下_李楠_29分到72分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3b7a16242b66050b.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3b7a16242b66050b.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3b7a16242b66050b.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3b7a16242b66050b.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_29分到72分"
-            },
-            {
-              "name": "①60分以下_李楠_29分到72分_2",
-              "fileName": "①60分以下_李楠_29分到72分_2.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/447d26f5447c0efe.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/447d26f5447c0efe.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/447d26f5447c0efe.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/447d26f5447c0efe.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_29分到72分_2"
-            },
-            {
-              "name": "①60分以下_李楠_29分到73分",
-              "fileName": "①60分以下_李楠_29分到73分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ab956b21c1fccb6b.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ab956b21c1fccb6b.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ab956b21c1fccb6b.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ab956b21c1fccb6b.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_29分到73分"
-            },
-            {
-              "name": "①60分以下_李楠_30分到63分",
-              "fileName": "①60分以下_李楠_30分到63分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2ac67ef2afb1836a.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2ac67ef2afb1836a.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2ac67ef2afb1836a.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2ac67ef2afb1836a.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_30分到63分"
-            },
-            {
-              "name": "①60分以下_李楠_30分到73分",
-              "fileName": "①60分以下_李楠_30分到73分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/11c389f6211fb50a.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/11c389f6211fb50a.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/11c389f6211fb50a.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/11c389f6211fb50a.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_30分到73分"
-            },
-            {
-              "name": "①60分以下_李楠_34分到91分",
-              "fileName": "①60分以下_李楠_34分到91分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e7ea87c9628ed246.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e7ea87c9628ed246.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e7ea87c9628ed246.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e7ea87c9628ed246.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_34分到91分"
-            },
-            {
-              "name": "①60分以下_李楠_34分到91分_2",
-              "fileName": "①60分以下_李楠_34分到91分_2.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/da9fc71395df225b.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/da9fc71395df225b.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/da9fc71395df225b.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/da9fc71395df225b.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_34分到91分_2"
-            },
-            {
-              "name": "①60分以下_李楠_福建_34分到53分",
-              "fileName": "①60分以下_李楠_福建_34分到53分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/d84db45b84c505c2.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/d84db45b84c505c2.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/d84db45b84c505c2.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/d84db45b84c505c2.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_福建_34分到53分"
-            },
-            {
-              "name": "①60分以下_李楠_广东_23分到50分",
-              "fileName": "①60分以下_李楠_广东_23分到50分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0b3918973cee24f7.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0b3918973cee24f7.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0b3918973cee24f7.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0b3918973cee24f7.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_广东_23分到50分"
-            },
-            {
-              "name": "①60分以下_李楠_广东_30分到67分",
-              "fileName": "①60分以下_李楠_广东_30分到67分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b3a3c1f4b1b314ad.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b3a3c1f4b1b314ad.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b3a3c1f4b1b314ad.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b3a3c1f4b1b314ad.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_广东_30分到67分"
-            },
-            {
-              "name": "①60分以下_李楠_海南_33分到73分",
-              "fileName": "①60分以下_李楠_海南_33分到73分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6452e611f3976300.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6452e611f3976300.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/6452e611f3976300.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6452e611f3976300.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_海南_33分到73分"
-            },
-            {
-              "name": "①60分以下_李楠_河北_30分到50分",
-              "fileName": "①60分以下_李楠_河北_30分到50分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b2752f26cdf1b3be.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b2752f26cdf1b3be.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b2752f26cdf1b3be.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b2752f26cdf1b3be.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_河北_30分到50分"
-            },
-            {
-              "name": "①60分以下_李楠_河南_20分到39分",
-              "fileName": "①60分以下_李楠_河南_20分到39分.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/47117d093ed78114.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/47117d093ed78114.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/47117d093ed78114.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/47117d093ed78114.jpg",
-              "province": "",
-              "scoreText": "①60分以下_李楠_河南_20分到39分"
-            },
-            {
-              "name": "①60分以下_李楠_河南_30分到52分",
-              "fileName": "①60分以下_李楠_河南_30分到52分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b9a126482749068a.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b9a126482749068a.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b9a126482749068a.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b9a126482749068a.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_河南_30分到52分"
-            },
-            {
-              "name": "①60分以下_李楠_河南_30分到72分",
-              "fileName": "①60分以下_李楠_河南_30分到72分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/dc74b743c4cfd6b4.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/dc74b743c4cfd6b4.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/dc74b743c4cfd6b4.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/dc74b743c4cfd6b4.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_河南_30分到72分"
-            },
-            {
-              "name": "①60分以下_李楠_河南_31分到59分",
-              "fileName": "①60分以下_李楠_河南_31分到59分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/08ac7032e8e6566b.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/08ac7032e8e6566b.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/08ac7032e8e6566b.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/08ac7032e8e6566b.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_河南_31分到59分"
-            },
-            {
-              "name": "①60分以下_李楠_黑龙江_32分到63分",
-              "fileName": "①60分以下_李楠_黑龙江_32分到63分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b7d6da1ff9653d1c.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b7d6da1ff9653d1c.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b7d6da1ff9653d1c.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b7d6da1ff9653d1c.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_黑龙江_32分到63分"
-            },
-            {
-              "name": "①60分以下_李楠_黑龙江_32分到65分",
-              "fileName": "①60分以下_李楠_黑龙江_32分到65分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3f0b8b3ae0224580.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3f0b8b3ae0224580.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3f0b8b3ae0224580.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3f0b8b3ae0224580.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_黑龙江_32分到65分"
-            },
-            {
-              "name": "①60分以下_李楠_湖北_29分到76分",
-              "fileName": "①60分以下_李楠_湖北_29分到76分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ff5d7c08841b2c73.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ff5d7c08841b2c73.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ff5d7c08841b2c73.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ff5d7c08841b2c73.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_湖北_29分到76分"
-            },
-            {
-              "name": "①60分以下_李楠_湖南_30分到58分",
-              "fileName": "①60分以下_李楠_湖南_30分到58分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/82be3d8de5c7b1bb.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/82be3d8de5c7b1bb.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/82be3d8de5c7b1bb.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/82be3d8de5c7b1bb.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_湖南_30分到58分"
-            },
-            {
-              "name": "①60分以下_李楠_湖南_30分到61分",
-              "fileName": "①60分以下_李楠_湖南_30分到61分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5355a7644eb906e5.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5355a7644eb906e5.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/5355a7644eb906e5.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/5355a7644eb906e5.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_湖南_30分到61分"
-            },
-            {
-              "name": "①60分以下_李楠_吉林_15分到29分",
-              "fileName": "①60分以下_李楠_吉林_15分到29分.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/be394d8eb8da7ad9.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/be394d8eb8da7ad9.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/be394d8eb8da7ad9.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/be394d8eb8da7ad9.jpg",
-              "province": "",
-              "scoreText": "①60分以下_李楠_吉林_15分到29分"
-            },
-            {
-              "name": "①60分以下_李楠_江苏_29分到45分",
-              "fileName": "①60分以下_李楠_江苏_29分到45分.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e5d3cae4343a116b.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e5d3cae4343a116b.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e5d3cae4343a116b.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e5d3cae4343a116b.jpg",
-              "province": "",
-              "scoreText": "①60分以下_李楠_江苏_29分到45分"
-            },
-            {
-              "name": "①60分以下_李楠_江苏_34分到54分",
-              "fileName": "①60分以下_李楠_江苏_34分到54分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6ea1afde89e7f97d.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6ea1afde89e7f97d.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/6ea1afde89e7f97d.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6ea1afde89e7f97d.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_江苏_34分到54分"
-            },
-            {
-              "name": "①60分以下_李楠_辽宁_26分到67分",
-              "fileName": "①60分以下_李楠_辽宁_26分到67分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4bc565415778ca3f.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4bc565415778ca3f.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4bc565415778ca3f.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4bc565415778ca3f.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_辽宁_26分到67分"
-            },
-            {
-              "name": "①60分以下_李楠_青海_23分到98分",
-              "fileName": "①60分以下_李楠_青海_23分到98分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1488a2eea04ffecf.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1488a2eea04ffecf.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/1488a2eea04ffecf.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/1488a2eea04ffecf.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_青海_23分到98分"
-            },
-            {
-              "name": "①60分以下_李楠_山西_30分到65分",
-              "fileName": "①60分以下_李楠_山西_30分到65分.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/30e7e50c0faef883.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/30e7e50c0faef883.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/30e7e50c0faef883.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/30e7e50c0faef883.jpg",
-              "province": "",
-              "scoreText": "①60分以下_李楠_山西_30分到65分"
-            },
-            {
-              "name": "①60分以下_李楠_陕西_32分到76分",
-              "fileName": "①60分以下_李楠_陕西_32分到76分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4b4e2e73aed921f9.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4b4e2e73aed921f9.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4b4e2e73aed921f9.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4b4e2e73aed921f9.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_陕西_32分到76分"
-            },
-            {
-              "name": "①60分以下_李楠_四川_20分到61分",
-              "fileName": "①60分以下_李楠_四川_20分到61分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7847648d1124490c.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7847648d1124490c.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/7847648d1124490c.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7847648d1124490c.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_四川_20分到61分"
-            },
-            {
-              "name": "①60分以下_李楠_四川_32分到79分",
-              "fileName": "①60分以下_李楠_四川_32分到79分.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/45470af226f67ea3.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/45470af226f67ea3.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/45470af226f67ea3.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/45470af226f67ea3.jpg",
-              "province": "",
-              "scoreText": "①60分以下_李楠_四川_32分到79分"
-            },
-            {
-              "name": "①60分以下_李楠_四川_38分到70分",
-              "fileName": "①60分以下_李楠_四川_38分到70分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ff70418f925069b6.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ff70418f925069b6.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ff70418f925069b6.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ff70418f925069b6.png",
-              "province": "",
-              "scoreText": "①60分以下_李楠_四川_38分到70分"
-            },
-            {
               "name": "李楠_20多分到58分",
               "fileName": "李楠_20多分到58分.png",
               "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1e46e0c163230eb9.webp",
@@ -17271,16 +16931,6 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6cfa27c48ffde3fd.png",
               "province": "",
               "scoreText": "34分到91分"
-            },
-            {
-              "name": "李楠_34分到91分_2",
-              "fileName": "李楠_34分到91分_2.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/670ec6fe49b0121e.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/670ec6fe49b0121e.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/670ec6fe49b0121e.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/670ec6fe49b0121e.png",
-              "province": "",
-              "scoreText": "34分到91分_2"
             },
             {
               "name": "李楠_福建_34分到53分",
@@ -31317,6 +30967,16 @@ window.CASE_DATA = {
               "scoreText": "语文80到99提升19分"
             },
             {
+              "name": "姜博杨_陕西_87分到105分",
+              "fileName": "姜博杨_陕西_87分到105分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/874e3aeebe7773bc.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/874e3aeebe7773bc.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/874e3aeebe7773bc.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/874e3aeebe7773bc.png",
+              "province": "陕西",
+              "scoreText": "87分到105分"
+            },
+            {
               "name": "姜博杨_陕西_89分到106分",
               "fileName": "姜博杨_陕西_89分到106分.png",
               "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0f2aba44aba4a5bc.webp",
@@ -31325,16 +30985,6 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0f2aba44aba4a5bc.png",
               "province": "陕西",
               "scoreText": "89分到106分"
-            },
-            {
-              "name": "姜博杨_陕西_语文87到105提升18分",
-              "fileName": "姜博杨_陕西_语文87到105提升18分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6fe29798defdd67f.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6fe29798defdd67f.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/6fe29798defdd67f.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6fe29798defdd67f.png",
-              "province": "陕西",
-              "scoreText": "语文87到105提升18分"
             },
             {
               "name": "姜博杨_上海_80分到92分",

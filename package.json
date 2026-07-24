@@ -6,6 +6,7 @@
     "generate:data": "node generate-data.js",
     "build:r2-assets": "node build-r2-assets.js",
     "build:incremental-cases": "node build-incremental-case-assets.js",
+    "replace:profile-images": "node replace-profile-images.js",
     "configure:r2-cors": "node configure-r2-cors.js",
     "upload:r2-assets": "node upload-r2-assets.js"
   },

@@ -1,5 +1,5 @@
 window.CASE_DATA = {
-  "generatedAt": "2026-07-24T09:34:03.702Z",
+  "generatedAt": "2026-07-24T10:19:37.111Z",
   "provinces": [
     "北京",
     "天津",

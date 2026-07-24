@@ -3,7 +3,9 @@ const path = require("path");
 const { PutObjectCommand, S3Client } = require("@aws-sdk/client-s3");
 
 const envPath = path.join(__dirname, ".env.r2");
-const manifestPath = path.join(__dirname, "outputs", "r2-assets", "upload-manifest.json");
+const manifestPath = process.env.R2_UPLOAD_MANIFEST_PATH
+  ? path.resolve(process.env.R2_UPLOAD_MANIFEST_PATH)
+  : path.join(__dirname, "outputs", "r2-assets", "upload-manifest.json");
 const statePath = path.join(__dirname, "outputs", "r2-assets", "upload-state.json");
 
 function loadEnvFile(filePath) {

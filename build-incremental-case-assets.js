@@ -3,7 +3,9 @@ const fs = require("fs");
 const path = require("path");
 const sharp = require("sharp");
 
-const caseRoot = path.join(__dirname, "Score-improve-cases-main", "提分案例汇总");
+const caseRoot = process.env.CASE_TARGET_ROOT
+  ? path.resolve(process.env.CASE_TARGET_ROOT)
+  : path.join(__dirname, "Score-improve-cases-main", "提分案例汇总");
 const classifiedManifestPath = process.env.CLASSIFIED_CASE_MANIFEST ||
   path.join(__dirname, "outputs", "incremental-case-updates", "classified-new-images-latest.json");
 const outputDir = path.join(__dirname, "outputs", "r2-assets");

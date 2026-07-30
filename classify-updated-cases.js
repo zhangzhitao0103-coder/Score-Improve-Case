@@ -2,8 +2,12 @@ const fs = require("fs");
 const path = require("path");
 const crypto = require("crypto");
 
-const updateRoot = path.join(__dirname, "提分案例-更新版");
-const targetRoot = path.join(__dirname, "Score-improve-cases-main", "提分案例汇总");
+const updateRoot = process.env.CASE_UPDATE_ROOT
+  ? path.resolve(process.env.CASE_UPDATE_ROOT)
+  : path.join(__dirname, "提分案例-更新版");
+const targetRoot = process.env.CASE_TARGET_ROOT
+  ? path.resolve(process.env.CASE_TARGET_ROOT)
+  : path.join(__dirname, "Score-improve-cases-main", "提分案例汇总");
 const outputDir = path.join(__dirname, "outputs", "incremental-case-updates");
 const imageExts = new Set([".png", ".jpg", ".jpeg", ".webp"]);
 const subjects = ["语文", "数学", "英语", "物理", "化学", "生物", "历史", "地理", "政治"];

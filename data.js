@@ -1,5 +1,5 @@
 window.CASE_DATA = {
-  "generatedAt": "2026-07-30T03:30:21.240Z",
+  "generatedAt": "2026-07-30T05:28:13.222Z",
   "provinces": [
     "北京",
     "天津",
@@ -39273,6 +39273,560 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/afdb693f363eab32.png",
               "province": "",
               "scoreText": "政治87分"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "英语-杨文哲",
+      "name": "杨文哲",
+      "subject": "英语",
+      "folder": "英语杨文哲-提分案例",
+      "profileImages": [
+        {
+          "name": "优秀学员",
+          "fileName": "优秀学员.png",
+          "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/25b8e81c04365f79.webp",
+          "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/25b8e81c04365f79.webp",
+          "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/25b8e81c04365f79.webp",
+          "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/25b8e81c04365f79.png"
+        },
+        {
+          "name": "背书",
+          "fileName": "背书.png",
+          "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/83908448e853ceea.webp",
+          "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/83908448e853ceea.webp",
+          "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/83908448e853ceea.webp",
+          "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/83908448e853ceea.png"
+        }
+      ],
+      "scoreBands": [
+        {
+          "rawName": "①60分以下",
+          "name": "60分以下",
+          "cases": []
+        },
+        {
+          "rawName": "②60-90分",
+          "name": "60-90分",
+          "cases": []
+        },
+        {
+          "rawName": "③90-110分",
+          "name": "90-110分",
+          "cases": []
+        },
+        {
+          "rawName": "④110分以上",
+          "name": "110分以上",
+          "cases": []
+        },
+        {
+          "rawName": "⑤其它",
+          "name": "其它",
+          "cases": []
+        }
+      ]
+    },
+    {
+      "id": "地理-钱叶茂",
+      "name": "钱叶茂",
+      "subject": "地理",
+      "folder": "地理钱叶茂-提分案例",
+      "profileImages": [
+        {
+          "name": "背书",
+          "fileName": "背书.png",
+          "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/309a55bf0ee39a0e.webp",
+          "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/309a55bf0ee39a0e.webp",
+          "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/309a55bf0ee39a0e.webp",
+          "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/309a55bf0ee39a0e.png"
+        }
+      ],
+      "scoreBands": [
+        {
+          "rawName": "①40分以下",
+          "name": "40分以下",
+          "cases": []
+        },
+        {
+          "rawName": "②40-60分",
+          "name": "40-60分",
+          "cases": []
+        },
+        {
+          "rawName": "③60-85分",
+          "name": "60-85分",
+          "cases": []
+        },
+        {
+          "rawName": "④85分以上",
+          "name": "85分以上",
+          "cases": []
+        },
+        {
+          "rawName": "⑤其它",
+          "name": "其它",
+          "cases": []
+        }
+      ]
+    },
+    {
+      "id": "化学-贺涵",
+      "name": "贺涵",
+      "subject": "化学",
+      "folder": "化学贺涵-提分案例",
+      "profileImages": [
+        {
+          "name": "优秀学员",
+          "fileName": "优秀学员.png",
+          "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/cb9b7b79a9893506.webp",
+          "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/cb9b7b79a9893506.webp",
+          "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/cb9b7b79a9893506.webp",
+          "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/cb9b7b79a9893506.png"
+        },
+        {
+          "name": "大招",
+          "fileName": "大招.png",
+          "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/d61ea29aa29d6d93.webp",
+          "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/d61ea29aa29d6d93.webp",
+          "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/d61ea29aa29d6d93.webp",
+          "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/d61ea29aa29d6d93.png"
+        },
+        {
+          "name": "背书",
+          "fileName": "背书.png",
+          "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7bbb4085fc10632d.webp",
+          "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7bbb4085fc10632d.webp",
+          "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/7bbb4085fc10632d.webp",
+          "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7bbb4085fc10632d.png"
+        }
+      ],
+      "scoreBands": [
+        {
+          "rawName": "①40分以下",
+          "name": "40分以下",
+          "cases": []
+        },
+        {
+          "rawName": "②40-60分",
+          "name": "40-60分",
+          "cases": []
+        },
+        {
+          "rawName": "③60-85分",
+          "name": "60-85分",
+          "cases": []
+        },
+        {
+          "rawName": "⑤85以上",
+          "name": "85以上",
+          "cases": []
+        },
+        {
+          "rawName": "⑤其它",
+          "name": "其它",
+          "cases": [
+            {
+              "name": "贺涵_103分",
+              "fileName": "贺涵_103分.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a0d402addee892fa.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a0d402addee892fa.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a0d402addee892fa.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a0d402addee892fa.jpg",
+              "province": "",
+              "scoreText": "103分"
+            },
+            {
+              "name": "贺涵_89分_班级、年级都是第一名",
+              "fileName": "贺涵_89分_班级、年级都是第一名.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7728866e2d1b946d.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7728866e2d1b946d.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/7728866e2d1b946d.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7728866e2d1b946d.jpg",
+              "province": "",
+              "scoreText": "89分_班级、年级都是第一名"
+            },
+            {
+              "name": "贺涵_全市前20名",
+              "fileName": "贺涵_全市前20名.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/746059cbed5b0ea4.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/746059cbed5b0ea4.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/746059cbed5b0ea4.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/746059cbed5b0ea4.png",
+              "province": "",
+              "scoreText": "全市前20名"
+            },
+            {
+              "name": "贺涵_化学100分_总分641",
+              "fileName": "贺涵_化学100分_总分641.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ffd42fb00ead0e36.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ffd42fb00ead0e36.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ffd42fb00ead0e36.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ffd42fb00ead0e36.png",
+              "province": "",
+              "scoreText": "化学100分_总分641"
+            },
+            {
+              "name": "贺涵_化学100分_总分693",
+              "fileName": "贺涵_化学100分_总分693.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/00982596527e0530.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/00982596527e0530.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/00982596527e0530.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/00982596527e0530.jpg",
+              "province": "",
+              "scoreText": "化学100分_总分693"
+            },
+            {
+              "name": "贺涵_化学100分_总分700",
+              "fileName": "贺涵_化学100分_总分700.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ae554e160d6d52e4.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ae554e160d6d52e4.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ae554e160d6d52e4.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ae554e160d6d52e4.png",
+              "province": "",
+              "scoreText": "化学100分_总分700"
+            },
+            {
+              "name": "贺涵_化学73分_年级第一",
+              "fileName": "贺涵_化学73分_年级第一.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c0389334a93a0aa3.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c0389334a93a0aa3.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/c0389334a93a0aa3.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c0389334a93a0aa3.jpg",
+              "province": "",
+              "scoreText": "化学73分_年级第一"
+            },
+            {
+              "name": "贺涵_化学82分",
+              "fileName": "贺涵_化学82分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1a771dbe1935e790.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1a771dbe1935e790.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/1a771dbe1935e790.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/1a771dbe1935e790.png",
+              "province": "",
+              "scoreText": "化学82分"
+            },
+            {
+              "name": "贺涵_化学85分_总分645",
+              "fileName": "贺涵_化学85分_总分645.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c442233f4a4e0f6a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c442233f4a4e0f6a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/c442233f4a4e0f6a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c442233f4a4e0f6a.jpg",
+              "province": "",
+              "scoreText": "化学85分_总分645"
+            },
+            {
+              "name": "贺涵_化学88分_总分643",
+              "fileName": "贺涵_化学88分_总分643.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2eeb34d0f9a3acf3.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2eeb34d0f9a3acf3.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2eeb34d0f9a3acf3.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2eeb34d0f9a3acf3.png",
+              "province": "",
+              "scoreText": "化学88分_总分643"
+            },
+            {
+              "name": "贺涵_化学88分_总分662",
+              "fileName": "贺涵_化学88分_总分662.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0ec4eb8d078f64cf.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0ec4eb8d078f64cf.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0ec4eb8d078f64cf.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0ec4eb8d078f64cf.png",
+              "province": "",
+              "scoreText": "化学88分_总分662"
+            },
+            {
+              "name": "贺涵_化学91分_年级第一",
+              "fileName": "贺涵_化学91分_年级第一.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2925a4c7811d8c9b.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2925a4c7811d8c9b.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2925a4c7811d8c9b.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2925a4c7811d8c9b.jpg",
+              "province": "",
+              "scoreText": "化学91分_年级第一"
+            },
+            {
+              "name": "贺涵_化学91分_第一名",
+              "fileName": "贺涵_化学91分_第一名.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5454a8b4d56d0af1.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5454a8b4d56d0af1.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/5454a8b4d56d0af1.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/5454a8b4d56d0af1.jpg",
+              "province": "",
+              "scoreText": "化学91分_第一名"
+            },
+            {
+              "name": "贺涵_化学92分_年级第六",
+              "fileName": "贺涵_化学92分_年级第六.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8f7b2a65e407847b.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8f7b2a65e407847b.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/8f7b2a65e407847b.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8f7b2a65e407847b.jpg",
+              "province": "",
+              "scoreText": "化学92分_年级第六"
+            },
+            {
+              "name": "贺涵_化学92分_有提升",
+              "fileName": "贺涵_化学92分_有提升.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9ffcb308ea6f3403.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9ffcb308ea6f3403.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/9ffcb308ea6f3403.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/9ffcb308ea6f3403.png",
+              "province": "",
+              "scoreText": "化学92分_有提升"
+            },
+            {
+              "name": "贺涵_化学94分",
+              "fileName": "贺涵_化学94分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ff0388c23af0470d.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ff0388c23af0470d.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ff0388c23af0470d.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ff0388c23af0470d.png",
+              "province": "",
+              "scoreText": "化学94分"
+            },
+            {
+              "name": "贺涵_化学94分_班级第一",
+              "fileName": "贺涵_化学94分_班级第一.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c0ab07e6a8fa981f.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c0ab07e6a8fa981f.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/c0ab07e6a8fa981f.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c0ab07e6a8fa981f.jpg",
+              "province": "",
+              "scoreText": "化学94分_班级第一"
+            },
+            {
+              "name": "贺涵_化学96分_第一名",
+              "fileName": "贺涵_化学96分_第一名.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9b45479b52ea7a73.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9b45479b52ea7a73.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/9b45479b52ea7a73.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/9b45479b52ea7a73.png",
+              "province": "",
+              "scoreText": "化学96分_第一名"
+            },
+            {
+              "name": "贺涵_化学97分",
+              "fileName": "贺涵_化学97分.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/91a9676eb7ef87ec.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/91a9676eb7ef87ec.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/91a9676eb7ef87ec.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/91a9676eb7ef87ec.jpg",
+              "province": "",
+              "scoreText": "化学97分"
+            },
+            {
+              "name": "贺涵_化学97分_年级第一",
+              "fileName": "贺涵_化学97分_年级第一.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/81e85c44c5088504.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/81e85c44c5088504.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/81e85c44c5088504.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/81e85c44c5088504.jpg",
+              "province": "",
+              "scoreText": "化学97分_年级第一"
+            },
+            {
+              "name": "贺涵_化学98分_差一点满分",
+              "fileName": "贺涵_化学98分_差一点满分.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/10b413ead8697d62.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/10b413ead8697d62.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/10b413ead8697d62.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/10b413ead8697d62.jpg",
+              "province": "",
+              "scoreText": "化学98分_差一点满分"
+            },
+            {
+              "name": "贺涵_化学98分_年级第一",
+              "fileName": "贺涵_化学98分_年级第一.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/593d34d0a0695dd5.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/593d34d0a0695dd5.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/593d34d0a0695dd5.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/593d34d0a0695dd5.jpg",
+              "province": "",
+              "scoreText": "化学98分_年级第一"
+            },
+            {
+              "name": "贺涵_化学99分",
+              "fileName": "贺涵_化学99分.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5206ff0ecb13a0a2.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5206ff0ecb13a0a2.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/5206ff0ecb13a0a2.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/5206ff0ecb13a0a2.jpg",
+              "province": "",
+              "scoreText": "化学99分"
+            },
+            {
+              "name": "贺涵_化学年级第一",
+              "fileName": "贺涵_化学年级第一.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/17a9ff58c4dd1ac9.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/17a9ff58c4dd1ac9.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/17a9ff58c4dd1ac9.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/17a9ff58c4dd1ac9.jpg",
+              "province": "",
+              "scoreText": "化学年级第一"
+            },
+            {
+              "name": "贺涵_化学班级第一",
+              "fileName": "贺涵_化学班级第一.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3429e03c312879be.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3429e03c312879be.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3429e03c312879be.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3429e03c312879be.jpg",
+              "province": "",
+              "scoreText": "化学班级第一"
+            },
+            {
+              "name": "贺涵_北京航空航天大学_袁_祺",
+              "fileName": "贺涵_北京航空航天大学_袁_祺.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b3dae8722f5f4535.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b3dae8722f5f4535.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b3dae8722f5f4535.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b3dae8722f5f4535.png",
+              "province": "",
+              "scoreText": "北京航空航天大学_袁_祺"
+            },
+            {
+              "name": "贺涵_喜欢贺涵老师的课",
+              "fileName": "贺涵_喜欢贺涵老师的课.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/98ed1ddc459dfcb5.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/98ed1ddc459dfcb5.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/98ed1ddc459dfcb5.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/98ed1ddc459dfcb5.jpg",
+              "province": "",
+              "scoreText": "喜欢贺涵老师的课"
+            },
+            {
+              "name": "贺涵_国防科技大学_贺_泽",
+              "fileName": "贺涵_国防科技大学_贺_泽.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/fadbcd90345da7ea.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/fadbcd90345da7ea.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/fadbcd90345da7ea.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/fadbcd90345da7ea.png",
+              "province": "",
+              "scoreText": "国防科技大学_贺_泽"
+            },
+            {
+              "name": "贺涵_年级排名18",
+              "fileName": "贺涵_年级排名18.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0a61965d68019cbe.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0a61965d68019cbe.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0a61965d68019cbe.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0a61965d68019cbe.jpg",
+              "province": "",
+              "scoreText": "年级排名18"
+            },
+            {
+              "name": "贺涵_年级排名66",
+              "fileName": "贺涵_年级排名66.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4be93a26af6d74fe.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4be93a26af6d74fe.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4be93a26af6d74fe.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4be93a26af6d74fe.jpg",
+              "province": "",
+              "scoreText": "年级排名66"
+            },
+            {
+              "name": "贺涵_总分675_华西口腔",
+              "fileName": "贺涵_总分675_华西口腔.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b8aab2b2ddb639b3.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b8aab2b2ddb639b3.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b8aab2b2ddb639b3.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b8aab2b2ddb639b3.png",
+              "province": "",
+              "scoreText": "总分675_华西口腔"
+            },
+            {
+              "name": "贺涵_总分698",
+              "fileName": "贺涵_总分698.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/56bfa4d9d28e9132.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/56bfa4d9d28e9132.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/56bfa4d9d28e9132.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/56bfa4d9d28e9132.png",
+              "province": "",
+              "scoreText": "总分698"
+            },
+            {
+              "name": "贺涵_想学到高三",
+              "fileName": "贺涵_想学到高三.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/23aef9d25864884a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/23aef9d25864884a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/23aef9d25864884a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/23aef9d25864884a.jpg",
+              "province": "",
+              "scoreText": "想学到高三"
+            },
+            {
+              "name": "贺涵_月考83分_班级第一_年级第六",
+              "fileName": "贺涵_月考83分_班级第一_年级第六.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8fce9d62817b0eb1.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8fce9d62817b0eb1.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/8fce9d62817b0eb1.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8fce9d62817b0eb1.png",
+              "province": "",
+              "scoreText": "月考83分_班级第一_年级第六"
+            },
+            {
+              "name": "贺涵_月考96分_年级第七",
+              "fileName": "贺涵_月考96分_年级第七.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a69aed095253d53a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a69aed095253d53a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a69aed095253d53a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a69aed095253d53a.png",
+              "province": "",
+              "scoreText": "月考96分_年级第七"
+            },
+            {
+              "name": "贺涵_班排第3",
+              "fileName": "贺涵_班排第3.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/aca0948a6606cd9c.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/aca0948a6606cd9c.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/aca0948a6606cd9c.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/aca0948a6606cd9c.jpg",
+              "province": "",
+              "scoreText": "班排第3"
+            },
+            {
+              "name": "贺涵_班级第2",
+              "fileName": "贺涵_班级第2.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6c26c0577e60855b.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6c26c0577e60855b.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/6c26c0577e60855b.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6c26c0577e60855b.jpg",
+              "province": "",
+              "scoreText": "班级第2"
+            },
+            {
+              "name": "贺涵_老师负责_学生喜欢",
+              "fileName": "贺涵_老师负责_学生喜欢.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3e6c6cec04c9fa68.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3e6c6cec04c9fa68.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3e6c6cec04c9fa68.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3e6c6cec04c9fa68.jpg",
+              "province": "",
+              "scoreText": "老师负责_学生喜欢"
+            },
+            {
+              "name": "贺涵_进步很大",
+              "fileName": "贺涵_进步很大.jpeg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/19376077cc66f590.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/19376077cc66f590.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/19376077cc66f590.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/19376077cc66f590.jpg",
+              "province": "",
+              "scoreText": "进步很大"
+            },
+            {
+              "name": "贺涵_首都师范大学_姚_璐",
+              "fileName": "贺涵_首都师范大学_姚_璐.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e66d57628e07a76d.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e66d57628e07a76d.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e66d57628e07a76d.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e66d57628e07a76d.png",
+              "province": "",
+              "scoreText": "首都师范大学_姚_璐"
             }
           ]
         }

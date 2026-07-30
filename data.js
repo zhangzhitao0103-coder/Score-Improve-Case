@@ -1,5 +1,5 @@
 window.CASE_DATA = {
-  "generatedAt": "2026-07-30T03:04:09.143Z",
+  "generatedAt": "2026-07-30T03:30:21.240Z",
   "provinces": [
     "北京",
     "天津",
@@ -11461,10 +11461,10 @@ window.CASE_DATA = {
             {
               "name": "胡源_安徽_31分到90分",
               "fileName": "胡源_安徽_31分到90分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/29cea07640ed2b4a.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/29cea07640ed2b4a.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/29cea07640ed2b4a.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/29cea07640ed2b4a.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/29cea07640ed2b4a.webp?v=20260730-胡源安徽",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/29cea07640ed2b4a.webp?v=20260730-胡源安徽",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/29cea07640ed2b4a.webp?v=20260730-胡源安徽",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/29cea07640ed2b4a.png?v=20260730-胡源安徽",
               "province": "安徽",
               "scoreText": "31分到90分"
             },

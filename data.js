@@ -27852,16 +27852,6 @@ window.CASE_DATA = {
               "province": "湖南",
               "scoreText": "从3分到40分"
             },
-            {
-              "name": "李辉_甘肃_从5分到7分",
-              "fileName": "李辉_甘肃_从5分到7分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f0d8c5be602fb052.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f0d8c5be602fb052.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f0d8c5be602fb052.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f0d8c5be602fb052.png",
-              "province": "甘肃",
-              "scoreText": "从5分到7分"
-            }
           ]
         },
         {

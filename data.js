@@ -2973,26 +2973,26 @@ window.CASE_DATA = {
         {
           "name": "背书",
           "fileName": "背书.png",
-          "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f4bbdd70ad50089c.webp",
-          "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f4bbdd70ad50089c.webp",
-          "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f4bbdd70ad50089c.webp",
-          "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f4bbdd70ad50089c.png"
+          "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f4bbdd70ad50089c.webp?v=20260807",
+          "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f4bbdd70ad50089c.webp?v=20260807",
+          "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f4bbdd70ad50089c.webp?v=20260807",
+          "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f4bbdd70ad50089c.png?v=20260807"
         },
         {
           "name": "大招",
           "fileName": "大招.png",
-          "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/cc9795201c960a7b.webp",
-          "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/cc9795201c960a7b.webp",
-          "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/cc9795201c960a7b.webp",
-          "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/cc9795201c960a7b.png"
+          "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/cc9795201c960a7b.webp?v=20260807",
+          "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/cc9795201c960a7b.webp?v=20260807",
+          "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/cc9795201c960a7b.webp?v=20260807",
+          "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/cc9795201c960a7b.png?v=20260807"
         },
         {
           "name": "优秀学员",
           "fileName": "优秀学员.png",
-          "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/70cda07d869bf592.webp",
-          "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/70cda07d869bf592.webp",
-          "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/70cda07d869bf592.webp",
-          "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/70cda07d869bf592.png"
+          "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/70cda07d869bf592.webp?v=20260807",
+          "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/70cda07d869bf592.webp?v=20260807",
+          "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/70cda07d869bf592.webp?v=20260807",
+          "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/70cda07d869bf592.png?v=20260807"
         },
         {
           "name": "提分案例",

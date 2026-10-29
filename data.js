@@ -1,5 +1,5 @@
 window.CASE_DATA = {
-  "generatedAt": "2026-07-30T05:28:13.222Z",
+  "generatedAt": "2026-10-29T02:42:24.989Z",
   "provinces": [
     "北京",
     "天津",
@@ -393,6 +393,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/1c282bac0ce1dc6b.png",
               "province": "辽宁",
               "scoreText": "从40分到84分"
+            },
+            {
+              "name": "李荟乐_海南_40分到76分_37ed68c6fee9f4f5",
+              "fileName": "李荟乐-地理-刘＊轩.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/37ed68c6fee9f4f5.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/37ed68c6fee9f4f5.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/37ed68c6fee9f4f5.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/37ed68c6fee9f4f5.jpg",
+              "province": "海南",
+              "scoreText": "40分到76分"
             }
           ]
         },
@@ -869,6 +879,26 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/d0d82be48c81f400.png",
               "province": "甘肃",
               "scoreText": "从70分到84分"
+            },
+            {
+              "name": "李荟乐_山东_68分到90分_37c354964ce2bdc3",
+              "fileName": "李荟乐-地理-李＊彤.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/37c354964ce2bdc3.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/37c354964ce2bdc3.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/37c354964ce2bdc3.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/37c354964ce2bdc3.jpg",
+              "province": "山东",
+              "scoreText": "68分到90分"
+            },
+            {
+              "name": "李荟乐_江苏_70分到82分_ee4e0ecae6d7adb9",
+              "fileName": "李荟乐-地理-冒＊悦.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ee4e0ecae6d7adb9.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ee4e0ecae6d7adb9.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ee4e0ecae6d7adb9.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ee4e0ecae6d7adb9.jpg",
+              "province": "江苏",
+              "scoreText": "70分到82分"
             }
           ]
         },
@@ -1243,6 +1273,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/1aec401bb7e3d320.png",
               "province": "重庆",
               "scoreText": "从30分到71分"
+            },
+            {
+              "name": "杨翌_广东_30分到54分_7b15ceee259cf881",
+              "fileName": "杨翌-地理-王＊青.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7b15ceee259cf881.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7b15ceee259cf881.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/7b15ceee259cf881.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7b15ceee259cf881.jpg",
+              "province": "广东",
+              "scoreText": "30分到54分"
             }
           ]
         },
@@ -1439,6 +1479,26 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7b2f68c3e2550bd2.png",
               "province": "湖北",
               "scoreText": "从50分到74分"
+            },
+            {
+              "name": "杨翌_云南_50分到63分_3e586fe8a87be733",
+              "fileName": "杨翌-地理-益＊拉木.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3e586fe8a87be733.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3e586fe8a87be733.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3e586fe8a87be733.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3e586fe8a87be733.jpg",
+              "province": "云南",
+              "scoreText": "50分到63分"
+            },
+            {
+              "name": "杨翌_浙江_59分到75分_030ab696e33eec3f",
+              "fileName": "杨翌-地理-柴＊曦.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/030ab696e33eec3f.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/030ab696e33eec3f.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/030ab696e33eec3f.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/030ab696e33eec3f.jpg",
+              "province": "浙江",
+              "scoreText": "59分到75分"
             }
           ]
         },
@@ -1725,6 +1785,36 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/80ae14008b1fb75d.png",
               "province": "陕西",
               "scoreText": "从60分到72分"
+            },
+            {
+              "name": "杨翌_浙江_68分到86分_b46747a3d167e2b8",
+              "fileName": "杨翌-地理-霍＊涵.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b46747a3d167e2b8.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b46747a3d167e2b8.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b46747a3d167e2b8.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b46747a3d167e2b8.jpg",
+              "province": "浙江",
+              "scoreText": "68分到86分"
+            },
+            {
+              "name": "杨翌_江苏_63分到85分_b8d2f3cd022822fd",
+              "fileName": "杨翌-地理-汤＊钰.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b8d2f3cd022822fd.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b8d2f3cd022822fd.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b8d2f3cd022822fd.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b8d2f3cd022822fd.jpg",
+              "province": "江苏",
+              "scoreText": "63分到85分"
+            },
+            {
+              "name": "杨翌_江西_60分到86分_f141a5aabc958bec",
+              "fileName": "杨翌-地理-刘＊栀.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f141a5aabc958bec.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f141a5aabc958bec.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f141a5aabc958bec.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f141a5aabc958bec.jpg",
+              "province": "江西",
+              "scoreText": "60分到86分"
             }
           ]
         },
@@ -2491,6 +2581,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/9f3531cf94c7f133.png",
               "province": "浙江",
               "scoreText": "从47分到69分"
+            },
+            {
+              "name": "高东辉_北京_40分到70分_872f85b28f8fcf73",
+              "fileName": "高东辉-化学-蔡＊烨.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/872f85b28f8fcf73.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/872f85b28f8fcf73.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/872f85b28f8fcf73.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/872f85b28f8fcf73.jpg",
+              "province": "北京",
+              "scoreText": "40分到70分"
             }
           ]
         },
@@ -3377,6 +3477,36 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/548d2dbc9cd4ffcf.png",
               "province": "青海",
               "scoreText": "从15分到50分"
+            },
+            {
+              "name": "冷士强_福建_30分到72分_b7c9971f3f1029d1",
+              "fileName": "冷士强-化学-李＊杰.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b7c9971f3f1029d1.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b7c9971f3f1029d1.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b7c9971f3f1029d1.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b7c9971f3f1029d1.jpg",
+              "province": "福建",
+              "scoreText": "30分到72分"
+            },
+            {
+              "name": "冷士强_安徽_25分到65分_53dc0b784856d597",
+              "fileName": "冷士强-化学-陈＊蕊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/53dc0b784856d597.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/53dc0b784856d597.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/53dc0b784856d597.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/53dc0b784856d597.jpg",
+              "province": "安徽",
+              "scoreText": "25分到65分"
+            },
+            {
+              "name": "冷士强_山西_33分到70分_0d4be35b541b3bf5",
+              "fileName": "冷士强-化学-雅＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0d4be35b541b3bf5.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0d4be35b541b3bf5.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0d4be35b541b3bf5.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0d4be35b541b3bf5.jpg",
+              "province": "山西",
+              "scoreText": "33分到70分"
             }
           ]
         },
@@ -3953,6 +4083,36 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/46de04b13ccfc0c5.png",
               "province": "甘肃",
               "scoreText": "从40分到84分"
+            },
+            {
+              "name": "冷士强_安徽_50分到62分_68b4c4647066c32a",
+              "fileName": "冷士强-化学-倪＊宇.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/68b4c4647066c32a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/68b4c4647066c32a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/68b4c4647066c32a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/68b4c4647066c32a.jpg",
+              "province": "安徽",
+              "scoreText": "50分到62分"
+            },
+            {
+              "name": "冷士强_安徽_56分到75分_0209449dc34ee7bf",
+              "fileName": "冷士强-化学-俞＊程.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0209449dc34ee7bf.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0209449dc34ee7bf.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0209449dc34ee7bf.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0209449dc34ee7bf.jpg",
+              "province": "安徽",
+              "scoreText": "56分到75分"
+            },
+            {
+              "name": "冷士强_广东_43分到74分_ce1fb34f5cd838f9",
+              "fileName": "冷士强-化学-彭＊欣.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ce1fb34f5cd838f9.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ce1fb34f5cd838f9.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ce1fb34f5cd838f9.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ce1fb34f5cd838f9.jpg",
+              "province": "广东",
+              "scoreText": "43分到74分"
             }
           ]
         },
@@ -4479,6 +4639,36 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/cc75f197949fb4b9.png",
               "province": "黑龙江",
               "scoreText": "从70分到88分"
+            },
+            {
+              "name": "冷士强_广西_60分到75分_a6029688e25e94be",
+              "fileName": "冷士强-化学-梓＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a6029688e25e94be.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a6029688e25e94be.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a6029688e25e94be.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a6029688e25e94be.jpg",
+              "province": "广西",
+              "scoreText": "60分到75分"
+            },
+            {
+              "name": "冷士强_广东_70分到86分_4e291dabee3a4414",
+              "fileName": "冷士强-化学-雷＊城.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4e291dabee3a4414.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4e291dabee3a4414.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4e291dabee3a4414.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4e291dabee3a4414.jpg",
+              "province": "广东",
+              "scoreText": "70分到86分"
+            },
+            {
+              "name": "冷士强_湖南_60分到92分_727513ce6e023ecd",
+              "fileName": "冷士强-化学-蒋＊霏.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/727513ce6e023ecd.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/727513ce6e023ecd.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/727513ce6e023ecd.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/727513ce6e023ecd.jpg",
+              "province": "湖南",
+              "scoreText": "60分到92分"
             }
           ]
         },
@@ -5275,6 +5465,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/29ca952d28a17b4b.png",
               "province": "河北",
               "scoreText": "从50分到90分"
+            },
+            {
+              "name": "钟啸_甘肃_53分到79分_3a6ab80b9ae1b81f",
+              "fileName": "钟啸-化学-王＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3a6ab80b9ae1b81f.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3a6ab80b9ae1b81f.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3a6ab80b9ae1b81f.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3a6ab80b9ae1b81f.jpg",
+              "province": "甘肃",
+              "scoreText": "53分到79分"
             }
           ]
         },
@@ -6157,6 +6357,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/33bc8d2870208a46.png",
               "province": "北京",
               "scoreText": "从59分到82分"
+            },
+            {
+              "name": "李珊玥_海南_59分到69分_1958e1e4ec313032",
+              "fileName": "李珊玥-历史-陈＊仪.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1958e1e4ec313032.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1958e1e4ec313032.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/1958e1e4ec313032.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/1958e1e4ec313032.jpg",
+              "province": "海南",
+              "scoreText": "59分到69分"
             }
           ]
         },
@@ -6463,6 +6673,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b0e84f6a4477f77f.png",
               "province": "浙江",
               "scoreText": "从79分到94分"
+            },
+            {
+              "name": "李珊玥_浙江_68分到75分_93a4cc50c71cd583",
+              "fileName": "李珊玥-历史-J＊Y.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/93a4cc50c71cd583.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/93a4cc50c71cd583.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/93a4cc50c71cd583.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/93a4cc50c71cd583.jpg",
+              "province": "浙江",
+              "scoreText": "68分到75分"
             }
           ]
         },
@@ -7269,6 +7489,36 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/84cb374f2df9c1a0.png",
               "province": "黑龙江",
               "scoreText": "从60分到83分"
+            },
+            {
+              "name": "张志浩_安徽_60分到70分_6f047b0e43408549",
+              "fileName": "张志浩-历史-李＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6f047b0e43408549.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6f047b0e43408549.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/6f047b0e43408549.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6f047b0e43408549.jpg",
+              "province": "安徽",
+              "scoreText": "60分到70分"
+            },
+            {
+              "name": "张志浩_广东_66分到76分_69cb3e098eb72107",
+              "fileName": "张志浩-历史-余＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/69cb3e098eb72107.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/69cb3e098eb72107.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/69cb3e098eb72107.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/69cb3e098eb72107.jpg",
+              "province": "广东",
+              "scoreText": "66分到76分"
+            },
+            {
+              "name": "张志浩_江苏_68分到78分_e9df776d24c6fef6",
+              "fileName": "张志浩-历史-刘＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e9df776d24c6fef6.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e9df776d24c6fef6.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e9df776d24c6fef6.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e9df776d24c6fef6.jpg",
+              "province": "江苏",
+              "scoreText": "68分到78分"
             }
           ]
         },
@@ -7765,6 +8015,46 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/250eed2481176cb4.png",
               "province": "山西",
               "scoreText": "从45分到92分"
+            },
+            {
+              "name": "陈旭晨_广东_40分到61分_25bdc7839a2fa28b",
+              "fileName": "陈旭晨-生物-何＊秦.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/25bdc7839a2fa28b.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/25bdc7839a2fa28b.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/25bdc7839a2fa28b.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/25bdc7839a2fa28b.jpg",
+              "province": "广东",
+              "scoreText": "40分到61分"
+            },
+            {
+              "name": "陈旭晨_山西_45分到68分_089cb50b910591e3",
+              "fileName": "陈旭晨-生物-杨＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/089cb50b910591e3.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/089cb50b910591e3.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/089cb50b910591e3.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/089cb50b910591e3.jpg",
+              "province": "山西",
+              "scoreText": "45分到68分"
+            },
+            {
+              "name": "陈旭晨_广东_58分到83分_e42f8eb6b2b9348e",
+              "fileName": "陈旭晨-生物-牛＊渤.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e42f8eb6b2b9348e.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e42f8eb6b2b9348e.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e42f8eb6b2b9348e.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e42f8eb6b2b9348e.jpg",
+              "province": "广东",
+              "scoreText": "58分到83分"
+            },
+            {
+              "name": "陈旭晨_江苏_40分到60分_a39358f1cc905904",
+              "fileName": "陈旭晨-生物-王＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a39358f1cc905904.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a39358f1cc905904.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a39358f1cc905904.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a39358f1cc905904.jpg",
+              "province": "江苏",
+              "scoreText": "40分到60分"
             }
           ]
         },
@@ -8091,6 +8381,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/88e309bfff76a20f.png",
               "province": "辽宁",
               "scoreText": "从70分到85分"
+            },
+            {
+              "name": "陈旭晨_广东_65分到93分_8f796ae6d786d420",
+              "fileName": "陈旭晨-生物-冯＊阳.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8f796ae6d786d420.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8f796ae6d786d420.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/8f796ae6d786d420.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8f796ae6d786d420.jpg",
+              "province": "广东",
+              "scoreText": "65分到93分"
             }
           ]
         },
@@ -8853,6 +9153,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b52741d2be0103dd.png",
               "province": "广东",
               "scoreText": "从70分到80分"
+            },
+            {
+              "name": "万猛_山东_70分到87分_9a1ab8ffc9054bff",
+              "fileName": "万猛-生物-汪＊博.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9a1ab8ffc9054bff.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9a1ab8ffc9054bff.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/9a1ab8ffc9054bff.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/9a1ab8ffc9054bff.jpg",
+              "province": "山东",
+              "scoreText": "70分到87分"
             }
           ]
         },
@@ -10775,6 +11085,26 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/17fd3ec0c918226a.png",
               "province": "河北",
               "scoreText": "从50分到100分"
+            },
+            {
+              "name": "高昕_山西_40分到86分_a86e45dd04335440",
+              "fileName": "高昕-数学-黄＊楠.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a86e45dd04335440.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a86e45dd04335440.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a86e45dd04335440.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a86e45dd04335440.jpg",
+              "province": "山西",
+              "scoreText": "40分到86分"
+            },
+            {
+              "name": "高昕_四川_30分到90分_493e7a5b3f368a09",
+              "fileName": "高昕-数学-杜＊良.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/493e7a5b3f368a09.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/493e7a5b3f368a09.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/493e7a5b3f368a09.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/493e7a5b3f368a09.jpg",
+              "province": "四川",
+              "scoreText": "30分到90分"
             }
           ]
         },
@@ -11031,6 +11361,26 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/fda6ff7b39a3fe60.png",
               "province": "重庆",
               "scoreText": "从60分到83分"
+            },
+            {
+              "name": "高昕_江苏_75分到92分_c89918a5b3d2c576",
+              "fileName": "高昕-数学-孙＊楠.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c89918a5b3d2c576.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c89918a5b3d2c576.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/c89918a5b3d2c576.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c89918a5b3d2c576.jpg",
+              "province": "江苏",
+              "scoreText": "75分到92分"
+            },
+            {
+              "name": "高昕_江苏_70分到119分_a9f4d6e1577c6818",
+              "fileName": "高昕-数学-丁＊然.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a9f4d6e1577c6818.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a9f4d6e1577c6818.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a9f4d6e1577c6818.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a9f4d6e1577c6818.jpg",
+              "province": "江苏",
+              "scoreText": "70分到119分"
             }
           ]
         },
@@ -12847,6 +13197,126 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/02af60a16bd633cf.png",
               "province": "黑龙江",
               "scoreText": "从23分到62分"
+            },
+            {
+              "name": "胡源_辽宁_30分到82分_e47d6725eea51449",
+              "fileName": "胡源-数学-王＊晨.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e47d6725eea51449.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e47d6725eea51449.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e47d6725eea51449.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e47d6725eea51449.jpg",
+              "province": "辽宁",
+              "scoreText": "30分到82分"
+            },
+            {
+              "name": "胡源_新疆_40分到91分_655bf8f6ea9ab4ca",
+              "fileName": "胡源-数学-魏＊元.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/655bf8f6ea9ab4ca.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/655bf8f6ea9ab4ca.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/655bf8f6ea9ab4ca.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/655bf8f6ea9ab4ca.jpg",
+              "province": "新疆",
+              "scoreText": "40分到91分"
+            },
+            {
+              "name": "胡源_浙江_20分到50分_ac3452c8449c0515",
+              "fileName": "胡源-数学-楚＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ac3452c8449c0515.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ac3452c8449c0515.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ac3452c8449c0515.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ac3452c8449c0515.jpg",
+              "province": "浙江",
+              "scoreText": "20分到50分"
+            },
+            {
+              "name": "胡源_陕西_40分到62分_7d500621e8f3cfd5",
+              "fileName": "胡源-数学-柳＊妍.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7d500621e8f3cfd5.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7d500621e8f3cfd5.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/7d500621e8f3cfd5.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7d500621e8f3cfd5.jpg",
+              "province": "陕西",
+              "scoreText": "40分到62分"
+            },
+            {
+              "name": "胡源_河南_50分到87分_2f41a0e151477224",
+              "fileName": "胡源-数学-谢＊辰.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2f41a0e151477224.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2f41a0e151477224.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2f41a0e151477224.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2f41a0e151477224.jpg",
+              "province": "河南",
+              "scoreText": "50分到87分"
+            },
+            {
+              "name": "胡源_广东_30分到61分_750b26e94abe0337",
+              "fileName": "胡源-数学-池＊霞.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/750b26e94abe0337.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/750b26e94abe0337.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/750b26e94abe0337.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/750b26e94abe0337.jpg",
+              "province": "广东",
+              "scoreText": "30分到61分"
+            },
+            {
+              "name": "胡源_陕西_50分到63分_94e34a8866a8a32a",
+              "fileName": "胡源-数学-叶＊婷.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/94e34a8866a8a32a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/94e34a8866a8a32a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/94e34a8866a8a32a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/94e34a8866a8a32a.jpg",
+              "province": "陕西",
+              "scoreText": "50分到63分"
+            },
+            {
+              "name": "胡源_新疆_17分到78分_f11407d302f1028c",
+              "fileName": "胡源-数学-郑＊宇.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f11407d302f1028c.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f11407d302f1028c.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f11407d302f1028c.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f11407d302f1028c.jpg",
+              "province": "新疆",
+              "scoreText": "17分到78分"
+            },
+            {
+              "name": "胡源_浙江_45分到75分_4579b88351d8b7cf",
+              "fileName": "胡源-数学-张＊宸.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4579b88351d8b7cf.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4579b88351d8b7cf.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4579b88351d8b7cf.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4579b88351d8b7cf.jpg",
+              "province": "浙江",
+              "scoreText": "45分到75分"
+            },
+            {
+              "name": "胡源_河南_30分到64分_45592491fc7d86fd",
+              "fileName": "胡源-数学-尹＊威.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/45592491fc7d86fd.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/45592491fc7d86fd.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/45592491fc7d86fd.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/45592491fc7d86fd.jpg",
+              "province": "河南",
+              "scoreText": "30分到64分"
+            },
+            {
+              "name": "胡源_山西_50分到92分_b65db2e9d2dc866c",
+              "fileName": "胡源-数学-庄＊焓.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b65db2e9d2dc866c.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b65db2e9d2dc866c.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b65db2e9d2dc866c.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b65db2e9d2dc866c.jpg",
+              "province": "山西",
+              "scoreText": "50分到92分"
+            },
+            {
+              "name": "胡源_天津_37分到96分_777d4a8ee23993c5",
+              "fileName": "胡源-数学-周＊壹.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/777d4a8ee23993c5.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/777d4a8ee23993c5.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/777d4a8ee23993c5.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/777d4a8ee23993c5.jpg",
+              "province": "天津",
+              "scoreText": "37分到96分"
             }
           ]
         },
@@ -14693,6 +15163,226 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/50a46a8ec067362b.png",
               "province": "辽宁",
               "scoreText": "从80分到97分"
+            },
+            {
+              "name": "胡源_河北_85分到100分_6dc8a2a498f1b3e4",
+              "fileName": "胡源-数学-赵＊佑.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6dc8a2a498f1b3e4.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6dc8a2a498f1b3e4.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/6dc8a2a498f1b3e4.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6dc8a2a498f1b3e4.jpg",
+              "province": "河北",
+              "scoreText": "85分到100分"
+            },
+            {
+              "name": "胡源_河北_65分到139分_2ffefbcea033c986",
+              "fileName": "胡源-数学-冯＊涵.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2ffefbcea033c986.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2ffefbcea033c986.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2ffefbcea033c986.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2ffefbcea033c986.jpg",
+              "province": "河北",
+              "scoreText": "65分到139分"
+            },
+            {
+              "name": "胡源_宁夏_80分到126分_1c3c66695ea865fe",
+              "fileName": "胡源-数学-刘＊睿.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1c3c66695ea865fe.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1c3c66695ea865fe.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/1c3c66695ea865fe.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/1c3c66695ea865fe.jpg",
+              "province": "宁夏",
+              "scoreText": "80分到126分"
+            },
+            {
+              "name": "胡源_河南_80分到118分_74ab84be31b7dde1",
+              "fileName": "胡源-数学-余＊然.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/74ab84be31b7dde1.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/74ab84be31b7dde1.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/74ab84be31b7dde1.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/74ab84be31b7dde1.jpg",
+              "province": "河南",
+              "scoreText": "80分到118分"
+            },
+            {
+              "name": "胡源_黑龙江_70分到101分_97fd2d01f7f5ebcd",
+              "fileName": "胡源-数学-关＊程.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/97fd2d01f7f5ebcd.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/97fd2d01f7f5ebcd.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/97fd2d01f7f5ebcd.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/97fd2d01f7f5ebcd.jpg",
+              "province": "黑龙江",
+              "scoreText": "70分到101分"
+            },
+            {
+              "name": "胡源_江苏_70分到97分_647a063076e76b29",
+              "fileName": "胡源-数学-任＊妮.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/647a063076e76b29.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/647a063076e76b29.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/647a063076e76b29.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/647a063076e76b29.jpg",
+              "province": "江苏",
+              "scoreText": "70分到97分"
+            },
+            {
+              "name": "胡源_江西_75分到112分_b97a9834fc32a641",
+              "fileName": "胡源-数学-罗＊爻.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b97a9834fc32a641.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b97a9834fc32a641.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b97a9834fc32a641.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b97a9834fc32a641.jpg",
+              "province": "江西",
+              "scoreText": "75分到112分"
+            },
+            {
+              "name": "胡源_山东_60分到114分_5a8a360e920967dd",
+              "fileName": "胡源-数学-杨＊馨.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5a8a360e920967dd.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5a8a360e920967dd.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/5a8a360e920967dd.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/5a8a360e920967dd.jpg",
+              "province": "山东",
+              "scoreText": "60分到114分"
+            },
+            {
+              "name": "胡源_河北_70分到102分_78c1cf85e662af4c",
+              "fileName": "胡源-数学-刘＊阳.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/78c1cf85e662af4c.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/78c1cf85e662af4c.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/78c1cf85e662af4c.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/78c1cf85e662af4c.jpg",
+              "province": "河北",
+              "scoreText": "70分到102分"
+            },
+            {
+              "name": "胡源_河北_89分到132分_ed589df1e05d2173",
+              "fileName": "胡源-数学-宋＊扬.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ed589df1e05d2173.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ed589df1e05d2173.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ed589df1e05d2173.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ed589df1e05d2173.jpg",
+              "province": "河北",
+              "scoreText": "89分到132分"
+            },
+            {
+              "name": "胡源_陕西_60分到94分_9bca90fa5bec50ee",
+              "fileName": "胡源-数学-卢＊珺.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9bca90fa5bec50ee.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9bca90fa5bec50ee.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/9bca90fa5bec50ee.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/9bca90fa5bec50ee.jpg",
+              "province": "陕西",
+              "scoreText": "60分到94分"
+            },
+            {
+              "name": "胡源_山东_60分到123分_864b4e595a1b2772",
+              "fileName": "胡源-数学-彭＊涵.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/864b4e595a1b2772.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/864b4e595a1b2772.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/864b4e595a1b2772.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/864b4e595a1b2772.jpg",
+              "province": "山东",
+              "scoreText": "60分到123分"
+            },
+            {
+              "name": "胡源_河南_64分到76分_2f15bb2dfe9d6ae1",
+              "fileName": "胡源-数学-张＊橙.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2f15bb2dfe9d6ae1.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2f15bb2dfe9d6ae1.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2f15bb2dfe9d6ae1.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2f15bb2dfe9d6ae1.jpg",
+              "province": "河南",
+              "scoreText": "64分到76分"
+            },
+            {
+              "name": "胡源_广西_64分到94分_63e0fde427a0bf78",
+              "fileName": "胡源-数学-王＊豪.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/63e0fde427a0bf78.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/63e0fde427a0bf78.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/63e0fde427a0bf78.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/63e0fde427a0bf78.jpg",
+              "province": "广西",
+              "scoreText": "64分到94分"
+            },
+            {
+              "name": "胡源_河南_70分到103分_4ce0d5d92488cdc4",
+              "fileName": "胡源-数学-刘＊哲.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4ce0d5d92488cdc4.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4ce0d5d92488cdc4.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4ce0d5d92488cdc4.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4ce0d5d92488cdc4.jpg",
+              "province": "河南",
+              "scoreText": "70分到103分"
+            },
+            {
+              "name": "胡源_湖北_80分到102分_05140849f6e350ab",
+              "fileName": "胡源-数学-程＊杰.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/05140849f6e350ab.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/05140849f6e350ab.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/05140849f6e350ab.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/05140849f6e350ab.jpg",
+              "province": "湖北",
+              "scoreText": "80分到102分"
+            },
+            {
+              "name": "胡源_湖北_60分到110分_3c49257c742303f8",
+              "fileName": "胡源-数学-陈＊奕.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3c49257c742303f8.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3c49257c742303f8.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3c49257c742303f8.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3c49257c742303f8.jpg",
+              "province": "湖北",
+              "scoreText": "60分到110分"
+            },
+            {
+              "name": "胡源_上海_80分到100分_b6abede41c452777",
+              "fileName": "胡源-数学-王＊宇.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b6abede41c452777.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b6abede41c452777.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b6abede41c452777.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b6abede41c452777.jpg",
+              "province": "上海",
+              "scoreText": "80分到100分"
+            },
+            {
+              "name": "胡源_安徽_85分到111分_0d1824a57e3dc16a",
+              "fileName": "胡源-数学-张＊悦.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0d1824a57e3dc16a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0d1824a57e3dc16a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0d1824a57e3dc16a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0d1824a57e3dc16a.jpg",
+              "province": "安徽",
+              "scoreText": "85分到111分"
+            },
+            {
+              "name": "胡源_广西_85分到130分_8c4be182b9ed7c1e",
+              "fileName": "胡源-数学-王＊如.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8c4be182b9ed7c1e.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8c4be182b9ed7c1e.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/8c4be182b9ed7c1e.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8c4be182b9ed7c1e.jpg",
+              "province": "广西",
+              "scoreText": "85分到130分"
+            },
+            {
+              "name": "胡源_陕西_70分到104分_2e228085247746e2",
+              "fileName": "胡源-数学-牛＊怡.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2e228085247746e2.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2e228085247746e2.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2e228085247746e2.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2e228085247746e2.jpg",
+              "province": "陕西",
+              "scoreText": "70分到104分"
+            },
+            {
+              "name": "胡源_湖南_78分到109分_8d4030bb05acf88c",
+              "fileName": "胡源-数学-柳＊竹.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8d4030bb05acf88c.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8d4030bb05acf88c.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/8d4030bb05acf88c.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8d4030bb05acf88c.jpg",
+              "province": "湖南",
+              "scoreText": "78分到109分"
             }
           ]
         },
@@ -15679,6 +16369,96 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/d45ffbca33a6e00f.png",
               "province": "湖南",
               "scoreText": "从100分到130分"
+            },
+            {
+              "name": "胡源_广东_101分到114分_2c595818a60cc8db",
+              "fileName": "胡源-数学-刘＊德.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2c595818a60cc8db.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2c595818a60cc8db.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2c595818a60cc8db.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2c595818a60cc8db.jpg",
+              "province": "广东",
+              "scoreText": "101分到114分"
+            },
+            {
+              "name": "胡源_内蒙古_90分到100分_cc094450dd3c571e",
+              "fileName": "胡源-数学-裴＊淇.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/cc094450dd3c571e.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/cc094450dd3c571e.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/cc094450dd3c571e.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/cc094450dd3c571e.jpg",
+              "province": "内蒙古",
+              "scoreText": "90分到100分"
+            },
+            {
+              "name": "胡源_河南_100分到118分_fe6337b19353d57a",
+              "fileName": "胡源-数学-娄＊熙.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/fe6337b19353d57a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/fe6337b19353d57a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/fe6337b19353d57a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/fe6337b19353d57a.jpg",
+              "province": "河南",
+              "scoreText": "100分到118分"
+            },
+            {
+              "name": "胡源_重庆_90分到120分_f2b1238f3b81936c",
+              "fileName": "胡源-数学-蔡＊希.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f2b1238f3b81936c.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f2b1238f3b81936c.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f2b1238f3b81936c.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f2b1238f3b81936c.jpg",
+              "province": "重庆",
+              "scoreText": "90分到120分"
+            },
+            {
+              "name": "胡源_湖南_100分到124分_563fcd6379b761d2",
+              "fileName": "胡源-数学-李＊哲.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/563fcd6379b761d2.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/563fcd6379b761d2.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/563fcd6379b761d2.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/563fcd6379b761d2.jpg",
+              "province": "湖南",
+              "scoreText": "100分到124分"
+            },
+            {
+              "name": "胡源_北京_100分到129分_299ea0edf03c4294",
+              "fileName": "胡源-数学-周＊淳.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/299ea0edf03c4294.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/299ea0edf03c4294.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/299ea0edf03c4294.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/299ea0edf03c4294.jpg",
+              "province": "北京",
+              "scoreText": "100分到129分"
+            },
+            {
+              "name": "胡源_陕西_100分到120分_89b0d9864ff186d2",
+              "fileName": "胡源-数学-佳＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/89b0d9864ff186d2.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/89b0d9864ff186d2.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/89b0d9864ff186d2.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/89b0d9864ff186d2.jpg",
+              "province": "陕西",
+              "scoreText": "100分到120分"
+            },
+            {
+              "name": "胡源_陕西_100分到113分_bbe78f7d159358e5",
+              "fileName": "胡源-数学-王＊锦.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/bbe78f7d159358e5.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/bbe78f7d159358e5.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/bbe78f7d159358e5.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/bbe78f7d159358e5.jpg",
+              "province": "陕西",
+              "scoreText": "100分到113分"
+            },
+            {
+              "name": "胡源_安徽_95分到118分_7ea3e44e5342cbb4",
+              "fileName": "胡源-数学-齐＊娇.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7ea3e44e5342cbb4.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7ea3e44e5342cbb4.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/7ea3e44e5342cbb4.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7ea3e44e5342cbb4.jpg",
+              "province": "安徽",
+              "scoreText": "95分到118分"
             }
           ]
         },
@@ -16035,6 +16815,26 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b848474f74499ff9.png",
               "province": "新疆",
               "scoreText": "从110分到120分"
+            },
+            {
+              "name": "胡源_河北_110分到121分_40f5cfafed10a49c",
+              "fileName": "胡源-数学-赵＊宁.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/40f5cfafed10a49c.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/40f5cfafed10a49c.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/40f5cfafed10a49c.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/40f5cfafed10a49c.jpg",
+              "province": "河北",
+              "scoreText": "110分到121分"
+            },
+            {
+              "name": "胡源_江苏_130分到142分_4b825bf798315711",
+              "fileName": "胡源-数学-肖＊萱.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4b825bf798315711.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4b825bf798315711.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4b825bf798315711.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4b825bf798315711.jpg",
+              "province": "江苏",
+              "scoreText": "130分到142分"
             }
           ]
         },
@@ -18861,6 +19661,26 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/537e732552eaf96f.png",
               "province": "青海",
               "scoreText": "从30分到50分"
+            },
+            {
+              "name": "李楠_内蒙古_20分到40分_8e4e197bafab7403",
+              "fileName": "李楠-物理-刘＊婷.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8e4e197bafab7403.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8e4e197bafab7403.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/8e4e197bafab7403.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8e4e197bafab7403.jpg",
+              "province": "内蒙古",
+              "scoreText": "20分到40分"
+            },
+            {
+              "name": "李楠_云南_37分到58分_790fab0698574dc6",
+              "fileName": "李楠-物理-赵＊婧.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/790fab0698574dc6.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/790fab0698574dc6.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/790fab0698574dc6.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/790fab0698574dc6.jpg",
+              "province": "云南",
+              "scoreText": "37分到58分"
             }
           ]
         },
@@ -19427,6 +20247,56 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f4d4b1d83966c191.png",
               "province": "河南",
               "scoreText": "从59分到96分"
+            },
+            {
+              "name": "李楠_河北_50分到70分_59a71bef15ad223a",
+              "fileName": "李楠-物理-赵＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/59a71bef15ad223a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/59a71bef15ad223a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/59a71bef15ad223a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/59a71bef15ad223a.jpg",
+              "province": "河北",
+              "scoreText": "50分到70分"
+            },
+            {
+              "name": "李楠_辽宁_47分到84分_fa1fb0e79888d724",
+              "fileName": "李楠-物理-张＊尧.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/fa1fb0e79888d724.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/fa1fb0e79888d724.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/fa1fb0e79888d724.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/fa1fb0e79888d724.jpg",
+              "province": "辽宁",
+              "scoreText": "47分到84分"
+            },
+            {
+              "name": "李楠_山东_58分到86分_e8531b9fe98797d7",
+              "fileName": "李楠-物理-刘＊浩.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e8531b9fe98797d7.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e8531b9fe98797d7.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e8531b9fe98797d7.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e8531b9fe98797d7.jpg",
+              "province": "山东",
+              "scoreText": "58分到86分"
+            },
+            {
+              "name": "李楠_新疆_41分到74分_223042222cd6d425",
+              "fileName": "李楠-物理-彭＊睿.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/223042222cd6d425.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/223042222cd6d425.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/223042222cd6d425.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/223042222cd6d425.jpg",
+              "province": "新疆",
+              "scoreText": "41分到74分"
+            },
+            {
+              "name": "李楠_江西_40分到58分_e2b98e356fe92630",
+              "fileName": "李楠-物理-丁＊嘉.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e2b98e356fe92630.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e2b98e356fe92630.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e2b98e356fe92630.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e2b98e356fe92630.jpg",
+              "province": "江西",
+              "scoreText": "40分到58分"
             }
           ]
         },
@@ -20733,6 +21603,36 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ded93578985d916e.png",
               "province": "甘肃",
               "scoreText": "从60分到75分"
+            },
+            {
+              "name": "李楠_湖北_70分到88分_5ee8c631a0d293cb",
+              "fileName": "李楠-物理-张＊齐.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5ee8c631a0d293cb.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5ee8c631a0d293cb.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/5ee8c631a0d293cb.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/5ee8c631a0d293cb.jpg",
+              "province": "湖北",
+              "scoreText": "70分到88分"
+            },
+            {
+              "name": "李楠_浙江_65分到74分_7d84ebb296298095",
+              "fileName": "李楠-物理-徐＊炀.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7d84ebb296298095.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7d84ebb296298095.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/7d84ebb296298095.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7d84ebb296298095.jpg",
+              "province": "浙江",
+              "scoreText": "65分到74分"
+            },
+            {
+              "name": "李楠_吉林_60分到92分_923776b0bcc0cfd9",
+              "fileName": "李楠-物理-范＊瑶.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/923776b0bcc0cfd9.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/923776b0bcc0cfd9.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/923776b0bcc0cfd9.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/923776b0bcc0cfd9.jpg",
+              "province": "吉林",
+              "scoreText": "60分到92分"
             }
           ]
         },
@@ -22609,6 +23509,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/cf1eeb39fc865edb.png",
               "province": "黑龙江",
               "scoreText": "从50分到67分"
+            },
+            {
+              "name": "刘杰_福建_58分到73分_733af26ddd0accd7",
+              "fileName": "刘杰-物理-何＊诗.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/733af26ddd0accd7.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/733af26ddd0accd7.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/733af26ddd0accd7.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/733af26ddd0accd7.jpg",
+              "province": "福建",
+              "scoreText": "58分到73分"
             }
           ]
         },
@@ -23145,6 +24055,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/91d1c1428c994771.png",
               "province": "广东",
               "scoreText": "从60分到78分"
+            },
+            {
+              "name": "刘杰_天津_60分到74分_c18e6dbc9a410ffe",
+              "fileName": "刘杰-物理-梁＊翔.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c18e6dbc9a410ffe.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c18e6dbc9a410ffe.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/c18e6dbc9a410ffe.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c18e6dbc9a410ffe.jpg",
+              "province": "天津",
+              "scoreText": "60分到74分"
             }
           ]
         },
@@ -24105,6 +25025,26 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/dc831ca002bf52f9.png",
               "province": "福建",
               "scoreText": "从23分到45分"
+            },
+            {
+              "name": "莫荒年_湖南_30分到47分_82542ef0defa5769",
+              "fileName": "莫荒年-物理-朱＊敏.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/82542ef0defa5769.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/82542ef0defa5769.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/82542ef0defa5769.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/82542ef0defa5769.jpg",
+              "province": "湖南",
+              "scoreText": "30分到47分"
+            },
+            {
+              "name": "莫荒年_江西_18分到29分_b8d30ce04005d3c1",
+              "fileName": "莫荒年-物理-宋＊娴.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b8d30ce04005d3c1.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b8d30ce04005d3c1.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b8d30ce04005d3c1.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b8d30ce04005d3c1.jpg",
+              "province": "江西",
+              "scoreText": "18分到29分"
             }
           ]
         },
@@ -26133,6 +27073,26 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0c6ba5d126c7c316.png",
               "province": "湖北",
               "scoreText": "从40分到86分"
+            },
+            {
+              "name": "宁志远_广西_41分到86分_e117463459a3aa4f",
+              "fileName": "宁志远-物理-刘＊堡.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e117463459a3aa4f.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e117463459a3aa4f.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e117463459a3aa4f.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e117463459a3aa4f.jpg",
+              "province": "广西",
+              "scoreText": "41分到86分"
+            },
+            {
+              "name": "宁志远_陕西_50分到60分_e67ce219e3930927",
+              "fileName": "宁志远-物理-朱＊辰.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e67ce219e3930927.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e67ce219e3930927.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e67ce219e3930927.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e67ce219e3930927.jpg",
+              "province": "陕西",
+              "scoreText": "50分到60分"
             }
           ]
         },
@@ -26925,6 +27885,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/10d3a8dd474ec768.png",
               "province": "上海",
               "scoreText": "50分到80分"
+            },
+            {
+              "name": "乔凯_黑龙江_45分到83分_bd2203a8e4dc0136",
+              "fileName": "乔凯-物理-梁＊格.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/bd2203a8e4dc0136.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/bd2203a8e4dc0136.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/bd2203a8e4dc0136.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/bd2203a8e4dc0136.jpg",
+              "province": "黑龙江",
+              "scoreText": "45分到83分"
             }
           ]
         },
@@ -27345,6 +28315,26 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2e7599b4962368bd.png",
               "province": "浙江",
               "scoreText": "从60分到75分"
+            },
+            {
+              "name": "贾岚_四川_80分到99分_cd8359c0758ce73f",
+              "fileName": "贾岚-英语-陈＊宇.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/cd8359c0758ce73f.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/cd8359c0758ce73f.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/cd8359c0758ce73f.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/cd8359c0758ce73f.jpg",
+              "province": "四川",
+              "scoreText": "80分到99分"
+            },
+            {
+              "name": "贾岚_山东_60分到93分_60d1173041485cb7",
+              "fileName": "贾岚-英语-许＊达.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/60d1173041485cb7.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/60d1173041485cb7.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/60d1173041485cb7.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/60d1173041485cb7.jpg",
+              "province": "山东",
+              "scoreText": "60分到93分"
             }
           ]
         },
@@ -27381,6 +28371,26 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/860c0bab1dfbb7be.png",
               "province": "广东",
               "scoreText": "从95分到115分"
+            },
+            {
+              "name": "贾岚_湖南_91.5分到110分_27c737588dff6b86",
+              "fileName": "贾岚-英语-王＊瑜.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/27c737588dff6b86.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/27c737588dff6b86.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/27c737588dff6b86.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/27c737588dff6b86.jpg",
+              "province": "湖南",
+              "scoreText": "91.5分到110分"
+            },
+            {
+              "name": "贾岚_四川_90分到113.5分_f06121f09b262407",
+              "fileName": "贾岚-英语-孙＊玥.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f06121f09b262407.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f06121f09b262407.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f06121f09b262407.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f06121f09b262407.jpg",
+              "province": "四川",
+              "scoreText": "90分到113.5分"
             }
           ]
         },
@@ -27417,6 +28427,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/42c5a9700ee3dca0.png",
               "province": "浙江",
               "scoreText": "120分到136分"
+            },
+            {
+              "name": "贾岚_山东_110分到126分_904f025025e41419",
+              "fileName": "贾岚-英语-李＊轩.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/904f025025e41419.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/904f025025e41419.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/904f025025e41419.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/904f025025e41419.jpg",
+              "province": "山东",
+              "scoreText": "110分到126分"
             }
           ]
         },
@@ -27852,6 +28872,36 @@ window.CASE_DATA = {
               "province": "湖南",
               "scoreText": "从3分到40分"
             },
+            {
+              "name": "李辉_山东_50分到75分_3146073f4844a7e8",
+              "fileName": "李辉-英语-赵＊婷.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3146073f4844a7e8.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3146073f4844a7e8.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3146073f4844a7e8.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3146073f4844a7e8.jpg",
+              "province": "山东",
+              "scoreText": "50分到75分"
+            },
+            {
+              "name": "李辉_山东_30分到72分_f60662172c91167f",
+              "fileName": "李辉-英语-刘＊羽.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f60662172c91167f.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f60662172c91167f.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f60662172c91167f.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f60662172c91167f.jpg",
+              "province": "山东",
+              "scoreText": "30分到72分"
+            },
+            {
+              "name": "李辉_浙江_50分到70.5分_4f67298e5429c3a4",
+              "fileName": "李辉-英语-何＊璇.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4f67298e5429c3a4.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4f67298e5429c3a4.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4f67298e5429c3a4.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4f67298e5429c3a4.jpg",
+              "province": "浙江",
+              "scoreText": "50分到70.5分"
+            }
           ]
         },
         {
@@ -28897,6 +29947,36 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c87fe0a4debf313a.png",
               "province": "黑龙江",
               "scoreText": "从80分到103分"
+            },
+            {
+              "name": "李辉_四川_77分到107.5分_df3114eefbec318d",
+              "fileName": "李辉-英语-韩＊萱.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/df3114eefbec318d.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/df3114eefbec318d.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/df3114eefbec318d.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/df3114eefbec318d.jpg",
+              "province": "四川",
+              "scoreText": "77分到107.5分"
+            },
+            {
+              "name": "李辉_广东_60分到100分_df7b062261fc5058",
+              "fileName": "李辉-英语-周＊昶.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/df7b062261fc5058.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/df7b062261fc5058.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/df7b062261fc5058.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/df7b062261fc5058.jpg",
+              "province": "广东",
+              "scoreText": "60分到100分"
+            },
+            {
+              "name": "李辉_广东_67分到99分_c86ae2e856a7993a",
+              "fileName": "李辉-英语-董＊丞.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c86ae2e856a7993a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c86ae2e856a7993a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/c86ae2e856a7993a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c86ae2e856a7993a.jpg",
+              "province": "广东",
+              "scoreText": "67分到99分"
             }
           ]
         },
@@ -29583,6 +30663,56 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2cb6b20979031d77.png",
               "province": "湖北",
               "scoreText": "从90分到110分"
+            },
+            {
+              "name": "李辉_湖南_100分到121分_b764924a51d58fb8",
+              "fileName": "李辉-英语-苏＊邦.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b764924a51d58fb8.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b764924a51d58fb8.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b764924a51d58fb8.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b764924a51d58fb8.jpg",
+              "province": "湖南",
+              "scoreText": "100分到121分"
+            },
+            {
+              "name": "李辉_重庆_107分到124分_d9660bea8d23da6a",
+              "fileName": "李辉-英语-陈＊然.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/d9660bea8d23da6a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/d9660bea8d23da6a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/d9660bea8d23da6a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/d9660bea8d23da6a.jpg",
+              "province": "重庆",
+              "scoreText": "107分到124分"
+            },
+            {
+              "name": "李辉_湖南_100分到120分_bf6176526f5f2f77",
+              "fileName": "李辉-英语-苏＊邦__p03.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/bf6176526f5f2f77.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/bf6176526f5f2f77.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/bf6176526f5f2f77.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/bf6176526f5f2f77.jpg",
+              "province": "湖南",
+              "scoreText": "100分到120分"
+            },
+            {
+              "name": "李辉_宁夏_107分到120.5分_1319eee71bdef559",
+              "fileName": "李辉-英语-梁＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1319eee71bdef559.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/1319eee71bdef559.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/1319eee71bdef559.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/1319eee71bdef559.jpg",
+              "province": "宁夏",
+              "scoreText": "107分到120.5分"
+            },
+            {
+              "name": "李辉_贵州_94分到119分_00f6e3cb1674569f",
+              "fileName": "李辉-英语-唐＊雪.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/00f6e3cb1674569f.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/00f6e3cb1674569f.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/00f6e3cb1674569f.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/00f6e3cb1674569f.jpg",
+              "province": "贵州",
+              "scoreText": "94分到119分"
             }
           ]
         },
@@ -29799,6 +30929,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8665c156e3056c68.png",
               "province": "辽宁",
               "scoreText": "从125分到139分"
+            },
+            {
+              "name": "李辉_新疆_110分到126分_4ff084cdd5945e1d",
+              "fileName": "李辉-英语-黄＊豪.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4ff084cdd5945e1d.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4ff084cdd5945e1d.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4ff084cdd5945e1d.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4ff084cdd5945e1d.jpg",
+              "province": "新疆",
+              "scoreText": "110分到126分"
             }
           ]
         },
@@ -30033,6 +31173,26 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f5d5888405799535.png",
               "province": "辽宁",
               "scoreText": "从25分到90分"
+            },
+            {
+              "name": "漆纯伊_陕西_50分到71.5分_21d7788f24fba2ee",
+              "fileName": "漆纯伊-英语-洪＊娇.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/21d7788f24fba2ee.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/21d7788f24fba2ee.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/21d7788f24fba2ee.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/21d7788f24fba2ee.jpg",
+              "province": "陕西",
+              "scoreText": "50分到71.5分"
+            },
+            {
+              "name": "漆纯伊_浙江_46分到80分_a3ac3bc67d13cc5e",
+              "fileName": "漆纯伊-英语-吕＊远.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a3ac3bc67d13cc5e.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a3ac3bc67d13cc5e.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a3ac3bc67d13cc5e.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a3ac3bc67d13cc5e.jpg",
+              "province": "浙江",
+              "scoreText": "46分到80分"
             }
           ]
         },
@@ -30149,6 +31309,26 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0a6ecec1f361f057.png",
               "province": "河北",
               "scoreText": "从70分到86分"
+            },
+            {
+              "name": "漆纯伊_安徽_70分到95分_aa2261b71f7c0170",
+              "fileName": "漆纯伊-英语-吴＊梓.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/aa2261b71f7c0170.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/aa2261b71f7c0170.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/aa2261b71f7c0170.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/aa2261b71f7c0170.jpg",
+              "province": "安徽",
+              "scoreText": "70分到95分"
+            },
+            {
+              "name": "漆纯伊_江苏_70分到98分_edaf178c85036ec0",
+              "fileName": "漆纯伊-英语-陈＊昊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/edaf178c85036ec0.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/edaf178c85036ec0.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/edaf178c85036ec0.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/edaf178c85036ec0.jpg",
+              "province": "江苏",
+              "scoreText": "70分到98分"
             }
           ]
         },
@@ -30175,6 +31355,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/cf14359620b6468b.png",
               "province": "河南",
               "scoreText": "从90分到112分"
+            },
+            {
+              "name": "漆纯伊_河南_100分到118分_039ab26fc38952fa",
+              "fileName": "漆纯伊-英语-王＊馨.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/039ab26fc38952fa.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/039ab26fc38952fa.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/039ab26fc38952fa.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/039ab26fc38952fa.jpg",
+              "province": "河南",
+              "scoreText": "100分到118分"
             }
           ]
         },
@@ -31617,6 +32807,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/83f40cb5b3c2fa45.png",
               "province": "辽宁",
               "scoreText": "从37分到55分"
+            },
+            {
+              "name": "赵晨曦_广东_25分到67分_f52e1f9be094831d",
+              "fileName": "赵晨曦-英语-张＊晨.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f52e1f9be094831d.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f52e1f9be094831d.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f52e1f9be094831d.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f52e1f9be094831d.jpg",
+              "province": "广东",
+              "scoreText": "25分到67分"
             }
           ]
         },
@@ -32529,6 +33729,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/890c156f9823370b.png",
               "province": "安徽",
               "scoreText": "从91分到106分"
+            },
+            {
+              "name": "赵晨曦_河南_100分到118.5分_a3a8d034111993f8",
+              "fileName": "赵晨曦-英语-韩＊锦.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a3a8d034111993f8.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a3a8d034111993f8.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a3a8d034111993f8.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a3a8d034111993f8.jpg",
+              "province": "河南",
+              "scoreText": "100分到118.5分"
             }
           ]
         },
@@ -33645,6 +34855,36 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b34fbcb5664c04a0.png",
               "province": "辽宁",
               "scoreText": "从85分到96分"
+            },
+            {
+              "name": "姜博杨_山西_88分到115分_0a4ffc8cf724f335",
+              "fileName": "姜博杨-语文-张＊雪.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0a4ffc8cf724f335.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0a4ffc8cf724f335.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0a4ffc8cf724f335.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0a4ffc8cf724f335.jpg",
+              "province": "山西",
+              "scoreText": "88分到115分"
+            },
+            {
+              "name": "姜博杨_河南_85分到104.5分_67c6c7115e1bc998",
+              "fileName": "姜博杨-语文-苏＊东.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/67c6c7115e1bc998.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/67c6c7115e1bc998.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/67c6c7115e1bc998.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/67c6c7115e1bc998.jpg",
+              "province": "河南",
+              "scoreText": "85分到104.5分"
+            },
+            {
+              "name": "姜博杨_江苏_68分到91分_ffa029bfe7d969f1",
+              "fileName": "姜博杨-语文-王＊疆.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ffa029bfe7d969f1.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/ffa029bfe7d969f1.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ffa029bfe7d969f1.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ffa029bfe7d969f1.jpg",
+              "province": "江苏",
+              "scoreText": "68分到91分"
             }
           ]
         },
@@ -34761,6 +36001,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/fb1e47810351797f.png",
               "province": "青海",
               "scoreText": "从90分到105分"
+            },
+            {
+              "name": "姜博杨_湖北_103分到116分_375a7531bb6a759a",
+              "fileName": "姜博杨-语文-刘＊语.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/375a7531bb6a759a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/375a7531bb6a759a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/375a7531bb6a759a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/375a7531bb6a759a.jpg",
+              "province": "湖北",
+              "scoreText": "103分到116分"
             }
           ]
         },
@@ -38609,6 +39859,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b643acf12dd2c20a.png",
               "province": "浙江",
               "scoreText": "从35分到60分"
+            },
+            {
+              "name": "张博文_新疆_25分到88分_c63693253e39dd1c",
+              "fileName": "张博文-政治-康＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c63693253e39dd1c.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/c63693253e39dd1c.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/c63693253e39dd1c.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c63693253e39dd1c.jpg",
+              "province": "新疆",
+              "scoreText": "25分到88分"
             }
           ]
         },
@@ -38835,6 +40095,16 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/501161172046cc41.png",
               "province": "江苏",
               "scoreText": "从44分到77分"
+            },
+            {
+              "name": "张博文_吉林_56分到71分_8f58ed81d3cac1d0",
+              "fileName": "张博文-政治-杨＊菲.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8f58ed81d3cac1d0.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/8f58ed81d3cac1d0.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/8f58ed81d3cac1d0.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8f58ed81d3cac1d0.jpg",
+              "province": "吉林",
+              "scoreText": "56分到71分"
             }
           ]
         },
@@ -39295,22 +40565,136 @@ window.CASE_DATA = {
         {
           "rawName": "①60分以下",
           "name": "60分以下",
-          "cases": []
+          "cases": [
+            {
+              "name": "杨文哲_安徽_41.5分到86.5分_fa386b339c69f36b",
+              "fileName": "杨文哲-英语-丁＊安.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/fa386b339c69f36b.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/fa386b339c69f36b.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/fa386b339c69f36b.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/fa386b339c69f36b.jpg",
+              "province": "安徽",
+              "scoreText": "41.5分到86.5分"
+            },
+            {
+              "name": "杨文哲_福建_50分到73.5分_f5d8570b511a97a7",
+              "fileName": "杨文哲-英语-王＊龙.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f5d8570b511a97a7.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f5d8570b511a97a7.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f5d8570b511a97a7.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f5d8570b511a97a7.jpg",
+              "province": "福建",
+              "scoreText": "50分到73.5分"
+            }
+          ]
         },
         {
           "rawName": "②60-90分",
           "name": "60-90分",
-          "cases": []
+          "cases": [
+            {
+              "name": "杨文哲_湖北_76分到103分_12494bb89aa738b5",
+              "fileName": "杨文哲-英语-文＊磊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/12494bb89aa738b5.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/12494bb89aa738b5.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/12494bb89aa738b5.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/12494bb89aa738b5.jpg",
+              "province": "湖北",
+              "scoreText": "76分到103分"
+            },
+            {
+              "name": "杨文哲_辽宁_60分到96.5分_684a81c1cab433df",
+              "fileName": "杨文哲-英语-刘＊为.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/684a81c1cab433df.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/684a81c1cab433df.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/684a81c1cab433df.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/684a81c1cab433df.jpg",
+              "province": "辽宁",
+              "scoreText": "60分到96.5分"
+            },
+            {
+              "name": "杨文哲_贵州_89分到119分_de0ad5aeae70ae3c",
+              "fileName": "杨文哲-英语-阳＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/de0ad5aeae70ae3c.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/de0ad5aeae70ae3c.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/de0ad5aeae70ae3c.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/de0ad5aeae70ae3c.jpg",
+              "province": "贵州",
+              "scoreText": "89分到119分"
+            },
+            {
+              "name": "杨文哲_安徽_70分到100.5分_bb5c4c9ab0cbbf7d",
+              "fileName": "杨文哲-英语-夏＊坤.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/bb5c4c9ab0cbbf7d.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/bb5c4c9ab0cbbf7d.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/bb5c4c9ab0cbbf7d.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/bb5c4c9ab0cbbf7d.jpg",
+              "province": "安徽",
+              "scoreText": "70分到100.5分"
+            },
+            {
+              "name": "杨文哲_云南_89分到101分_f53c604a2046d62a",
+              "fileName": "杨文哲-英语-王＊玲.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f53c604a2046d62a.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/f53c604a2046d62a.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f53c604a2046d62a.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f53c604a2046d62a.jpg",
+              "province": "云南",
+              "scoreText": "89分到101分"
+            }
+          ]
         },
         {
           "rawName": "③90-110分",
           "name": "90-110分",
-          "cases": []
+          "cases": [
+            {
+              "name": "杨文哲_广东_90分到112分_4e12ac77ee2e8453",
+              "fileName": "杨文哲-英语-林＊轩.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4e12ac77ee2e8453.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4e12ac77ee2e8453.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4e12ac77ee2e8453.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4e12ac77ee2e8453.jpg",
+              "province": "广东",
+              "scoreText": "90分到112分"
+            },
+            {
+              "name": "杨文哲_河南_90分到115分_97b5b4510b71dc83",
+              "fileName": "杨文哲-英语-李＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/97b5b4510b71dc83.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/97b5b4510b71dc83.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/97b5b4510b71dc83.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/97b5b4510b71dc83.jpg",
+              "province": "河南",
+              "scoreText": "90分到115分"
+            },
+            {
+              "name": "杨文哲_河南_101分到116分_63c7c7c8c2383ef0",
+              "fileName": "杨文哲-英语-王＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/63c7c7c8c2383ef0.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/63c7c7c8c2383ef0.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/63c7c7c8c2383ef0.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/63c7c7c8c2383ef0.jpg",
+              "province": "河南",
+              "scoreText": "101分到116分"
+            }
+          ]
         },
         {
           "rawName": "④110分以上",
           "name": "110分以上",
-          "cases": []
+          "cases": [
+            {
+              "name": "杨文哲_河北_110分到125.5分_0607d20df9402aa3",
+              "fileName": "杨文哲-英语-崔＊豪.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0607d20df9402aa3.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0607d20df9402aa3.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0607d20df9402aa3.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0607d20df9402aa3.jpg",
+              "province": "河北",
+              "scoreText": "110分到125.5分"
+            }
+          ]
         },
         {
           "rawName": "⑤其它",
@@ -39397,7 +40781,18 @@ window.CASE_DATA = {
         {
           "rawName": "①40分以下",
           "name": "40分以下",
-          "cases": []
+          "cases": [
+            {
+              "name": "贺涵_湖南_30分到54分_6d40f00e3a1bf46f",
+              "fileName": "贺涵-化学-文＊.jpg",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6d40f00e3a1bf46f.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6d40f00e3a1bf46f.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/6d40f00e3a1bf46f.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6d40f00e3a1bf46f.jpg",
+              "province": "湖南",
+              "scoreText": "30分到54分"
+            }
+          ]
         },
         {
           "rawName": "②40-60分",

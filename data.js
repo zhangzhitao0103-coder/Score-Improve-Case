@@ -402,7 +402,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/37ed68c6fee9f4f5.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/37ed68c6fee9f4f5.jpg",
               "province": "海南",
-              "scoreText": "40分到76分"
+              "scoreText": "40分到76分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -888,7 +889,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/37c354964ce2bdc3.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/37c354964ce2bdc3.jpg",
               "province": "山东",
-              "scoreText": "68分到90分"
+              "scoreText": "68分到90分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李荟乐_江苏_70分到82分_ee4e0ecae6d7adb9",
@@ -898,7 +900,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ee4e0ecae6d7adb9.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ee4e0ecae6d7adb9.jpg",
               "province": "江苏",
-              "scoreText": "70分到82分"
+              "scoreText": "70分到82分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -1282,7 +1285,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/7b15ceee259cf881.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7b15ceee259cf881.jpg",
               "province": "广东",
-              "scoreText": "30分到54分"
+              "scoreText": "30分到54分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -1488,7 +1492,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3e586fe8a87be733.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3e586fe8a87be733.jpg",
               "province": "云南",
-              "scoreText": "50分到63分"
+              "scoreText": "50分到63分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "杨翌_浙江_59分到75分_030ab696e33eec3f",
@@ -1498,7 +1503,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/030ab696e33eec3f.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/030ab696e33eec3f.jpg",
               "province": "浙江",
-              "scoreText": "59分到75分"
+              "scoreText": "59分到75分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -1794,7 +1800,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b46747a3d167e2b8.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b46747a3d167e2b8.jpg",
               "province": "浙江",
-              "scoreText": "68分到86分"
+              "scoreText": "68分到86分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "杨翌_江苏_63分到85分_b8d2f3cd022822fd",
@@ -1804,7 +1811,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b8d2f3cd022822fd.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b8d2f3cd022822fd.jpg",
               "province": "江苏",
-              "scoreText": "63分到85分"
+              "scoreText": "63分到85分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "杨翌_江西_60分到86分_f141a5aabc958bec",
@@ -1814,7 +1822,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f141a5aabc958bec.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f141a5aabc958bec.jpg",
               "province": "江西",
-              "scoreText": "60分到86分"
+              "scoreText": "60分到86分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -2590,7 +2599,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/872f85b28f8fcf73.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/872f85b28f8fcf73.jpg",
               "province": "北京",
-              "scoreText": "40分到70分"
+              "scoreText": "40分到70分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -3486,7 +3496,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b7c9971f3f1029d1.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b7c9971f3f1029d1.jpg",
               "province": "福建",
-              "scoreText": "30分到72分"
+              "scoreText": "30分到72分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "冷士强_安徽_25分到65分_53dc0b784856d597",
@@ -3496,7 +3507,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/53dc0b784856d597.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/53dc0b784856d597.jpg",
               "province": "安徽",
-              "scoreText": "25分到65分"
+              "scoreText": "25分到65分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "冷士强_山西_33分到70分_0d4be35b541b3bf5",
@@ -3506,7 +3518,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0d4be35b541b3bf5.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0d4be35b541b3bf5.jpg",
               "province": "山西",
-              "scoreText": "33分到70分"
+              "scoreText": "33分到70分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -4092,7 +4105,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/68b4c4647066c32a.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/68b4c4647066c32a.jpg",
               "province": "安徽",
-              "scoreText": "50分到62分"
+              "scoreText": "50分到62分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "冷士强_安徽_56分到75分_0209449dc34ee7bf",
@@ -4102,7 +4116,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0209449dc34ee7bf.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0209449dc34ee7bf.jpg",
               "province": "安徽",
-              "scoreText": "56分到75分"
+              "scoreText": "56分到75分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "冷士强_广东_43分到74分_ce1fb34f5cd838f9",
@@ -4112,7 +4127,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ce1fb34f5cd838f9.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ce1fb34f5cd838f9.jpg",
               "province": "广东",
-              "scoreText": "43分到74分"
+              "scoreText": "43分到74分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -4648,7 +4664,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a6029688e25e94be.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a6029688e25e94be.jpg",
               "province": "广西",
-              "scoreText": "60分到75分"
+              "scoreText": "60分到75分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "冷士强_广东_70分到86分_4e291dabee3a4414",
@@ -4658,7 +4675,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4e291dabee3a4414.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4e291dabee3a4414.jpg",
               "province": "广东",
-              "scoreText": "70分到86分"
+              "scoreText": "70分到86分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "冷士强_湖南_60分到92分_727513ce6e023ecd",
@@ -4668,7 +4686,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/727513ce6e023ecd.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/727513ce6e023ecd.jpg",
               "province": "湖南",
-              "scoreText": "60分到92分"
+              "scoreText": "60分到92分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -5474,7 +5493,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3a6ab80b9ae1b81f.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3a6ab80b9ae1b81f.jpg",
               "province": "甘肃",
-              "scoreText": "53分到79分"
+              "scoreText": "53分到79分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -6366,7 +6386,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/1958e1e4ec313032.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/1958e1e4ec313032.jpg",
               "province": "海南",
-              "scoreText": "59分到69分"
+              "scoreText": "59分到69分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -6682,7 +6703,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/93a4cc50c71cd583.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/93a4cc50c71cd583.jpg",
               "province": "浙江",
-              "scoreText": "68分到75分"
+              "scoreText": "68分到75分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -7498,7 +7520,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/6f047b0e43408549.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6f047b0e43408549.jpg",
               "province": "安徽",
-              "scoreText": "60分到70分"
+              "scoreText": "60分到70分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "张志浩_广东_66分到76分_69cb3e098eb72107",
@@ -7508,7 +7531,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/69cb3e098eb72107.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/69cb3e098eb72107.jpg",
               "province": "广东",
-              "scoreText": "66分到76分"
+              "scoreText": "66分到76分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "张志浩_江苏_68分到78分_e9df776d24c6fef6",
@@ -7518,7 +7542,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e9df776d24c6fef6.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e9df776d24c6fef6.jpg",
               "province": "江苏",
-              "scoreText": "68分到78分"
+              "scoreText": "68分到78分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -8024,7 +8049,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/25bdc7839a2fa28b.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/25bdc7839a2fa28b.jpg",
               "province": "广东",
-              "scoreText": "40分到61分"
+              "scoreText": "40分到61分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "陈旭晨_山西_45分到68分_089cb50b910591e3",
@@ -8034,7 +8060,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/089cb50b910591e3.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/089cb50b910591e3.jpg",
               "province": "山西",
-              "scoreText": "45分到68分"
+              "scoreText": "45分到68分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "陈旭晨_广东_58分到83分_e42f8eb6b2b9348e",
@@ -8044,7 +8071,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e42f8eb6b2b9348e.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e42f8eb6b2b9348e.jpg",
               "province": "广东",
-              "scoreText": "58分到83分"
+              "scoreText": "58分到83分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "陈旭晨_江苏_40分到60分_a39358f1cc905904",
@@ -8054,7 +8082,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a39358f1cc905904.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a39358f1cc905904.jpg",
               "province": "江苏",
-              "scoreText": "40分到60分"
+              "scoreText": "40分到60分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -8390,7 +8419,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/8f796ae6d786d420.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8f796ae6d786d420.jpg",
               "province": "广东",
-              "scoreText": "65分到93分"
+              "scoreText": "65分到93分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -9162,7 +9192,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/9a1ab8ffc9054bff.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/9a1ab8ffc9054bff.jpg",
               "province": "山东",
-              "scoreText": "70分到87分"
+              "scoreText": "70分到87分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -11094,7 +11125,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a86e45dd04335440.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a86e45dd04335440.jpg",
               "province": "山西",
-              "scoreText": "40分到86分"
+              "scoreText": "40分到86分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "高昕_四川_30分到90分_493e7a5b3f368a09",
@@ -11104,7 +11136,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/493e7a5b3f368a09.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/493e7a5b3f368a09.jpg",
               "province": "四川",
-              "scoreText": "30分到90分"
+              "scoreText": "30分到90分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -11370,7 +11403,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/c89918a5b3d2c576.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c89918a5b3d2c576.jpg",
               "province": "江苏",
-              "scoreText": "75分到92分"
+              "scoreText": "75分到92分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "高昕_江苏_70分到119分_a9f4d6e1577c6818",
@@ -11380,7 +11414,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a9f4d6e1577c6818.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a9f4d6e1577c6818.jpg",
               "province": "江苏",
-              "scoreText": "70分到119分"
+              "scoreText": "70分到119分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -13206,7 +13241,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e47d6725eea51449.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e47d6725eea51449.jpg",
               "province": "辽宁",
-              "scoreText": "30分到82分"
+              "scoreText": "30分到82分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_新疆_40分到91分_655bf8f6ea9ab4ca",
@@ -13216,7 +13252,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/655bf8f6ea9ab4ca.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/655bf8f6ea9ab4ca.jpg",
               "province": "新疆",
-              "scoreText": "40分到91分"
+              "scoreText": "40分到91分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_浙江_20分到50分_ac3452c8449c0515",
@@ -13226,7 +13263,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ac3452c8449c0515.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ac3452c8449c0515.jpg",
               "province": "浙江",
-              "scoreText": "20分到50分"
+              "scoreText": "20分到50分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_陕西_40分到62分_7d500621e8f3cfd5",
@@ -13236,7 +13274,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/7d500621e8f3cfd5.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7d500621e8f3cfd5.jpg",
               "province": "陕西",
-              "scoreText": "40分到62分"
+              "scoreText": "40分到62分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_河南_50分到87分_2f41a0e151477224",
@@ -13246,7 +13285,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2f41a0e151477224.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2f41a0e151477224.jpg",
               "province": "河南",
-              "scoreText": "50分到87分"
+              "scoreText": "50分到87分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_广东_30分到61分_750b26e94abe0337",
@@ -13256,7 +13296,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/750b26e94abe0337.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/750b26e94abe0337.jpg",
               "province": "广东",
-              "scoreText": "30分到61分"
+              "scoreText": "30分到61分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_陕西_50分到63分_94e34a8866a8a32a",
@@ -13266,7 +13307,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/94e34a8866a8a32a.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/94e34a8866a8a32a.jpg",
               "province": "陕西",
-              "scoreText": "50分到63分"
+              "scoreText": "50分到63分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_新疆_17分到78分_f11407d302f1028c",
@@ -13276,7 +13318,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f11407d302f1028c.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f11407d302f1028c.jpg",
               "province": "新疆",
-              "scoreText": "17分到78分"
+              "scoreText": "17分到78分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_浙江_45分到75分_4579b88351d8b7cf",
@@ -13286,7 +13329,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4579b88351d8b7cf.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4579b88351d8b7cf.jpg",
               "province": "浙江",
-              "scoreText": "45分到75分"
+              "scoreText": "45分到75分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_河南_30分到64分_45592491fc7d86fd",
@@ -13296,7 +13340,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/45592491fc7d86fd.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/45592491fc7d86fd.jpg",
               "province": "河南",
-              "scoreText": "30分到64分"
+              "scoreText": "30分到64分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_山西_50分到92分_b65db2e9d2dc866c",
@@ -13306,7 +13351,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b65db2e9d2dc866c.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b65db2e9d2dc866c.jpg",
               "province": "山西",
-              "scoreText": "50分到92分"
+              "scoreText": "50分到92分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_天津_37分到96分_777d4a8ee23993c5",
@@ -13316,7 +13362,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/777d4a8ee23993c5.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/777d4a8ee23993c5.jpg",
               "province": "天津",
-              "scoreText": "37分到96分"
+              "scoreText": "37分到96分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -15172,7 +15219,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/6dc8a2a498f1b3e4.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6dc8a2a498f1b3e4.jpg",
               "province": "河北",
-              "scoreText": "85分到100分"
+              "scoreText": "85分到100分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_河北_65分到139分_2ffefbcea033c986",
@@ -15182,7 +15230,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2ffefbcea033c986.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2ffefbcea033c986.jpg",
               "province": "河北",
-              "scoreText": "65分到139分"
+              "scoreText": "65分到139分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_宁夏_80分到126分_1c3c66695ea865fe",
@@ -15192,7 +15241,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/1c3c66695ea865fe.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/1c3c66695ea865fe.jpg",
               "province": "宁夏",
-              "scoreText": "80分到126分"
+              "scoreText": "80分到126分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_河南_80分到118分_74ab84be31b7dde1",
@@ -15202,7 +15252,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/74ab84be31b7dde1.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/74ab84be31b7dde1.jpg",
               "province": "河南",
-              "scoreText": "80分到118分"
+              "scoreText": "80分到118分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_黑龙江_70分到101分_97fd2d01f7f5ebcd",
@@ -15212,7 +15263,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/97fd2d01f7f5ebcd.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/97fd2d01f7f5ebcd.jpg",
               "province": "黑龙江",
-              "scoreText": "70分到101分"
+              "scoreText": "70分到101分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_江苏_70分到97分_647a063076e76b29",
@@ -15222,7 +15274,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/647a063076e76b29.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/647a063076e76b29.jpg",
               "province": "江苏",
-              "scoreText": "70分到97分"
+              "scoreText": "70分到97分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_江西_75分到112分_b97a9834fc32a641",
@@ -15232,7 +15285,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b97a9834fc32a641.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b97a9834fc32a641.jpg",
               "province": "江西",
-              "scoreText": "75分到112分"
+              "scoreText": "75分到112分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_山东_60分到114分_5a8a360e920967dd",
@@ -15242,7 +15296,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/5a8a360e920967dd.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/5a8a360e920967dd.jpg",
               "province": "山东",
-              "scoreText": "60分到114分"
+              "scoreText": "60分到114分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_河北_70分到102分_78c1cf85e662af4c",
@@ -15252,7 +15307,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/78c1cf85e662af4c.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/78c1cf85e662af4c.jpg",
               "province": "河北",
-              "scoreText": "70分到102分"
+              "scoreText": "70分到102分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_河北_89分到132分_ed589df1e05d2173",
@@ -15262,7 +15318,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ed589df1e05d2173.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ed589df1e05d2173.jpg",
               "province": "河北",
-              "scoreText": "89分到132分"
+              "scoreText": "89分到132分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_陕西_60分到94分_9bca90fa5bec50ee",
@@ -15272,7 +15329,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/9bca90fa5bec50ee.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/9bca90fa5bec50ee.jpg",
               "province": "陕西",
-              "scoreText": "60分到94分"
+              "scoreText": "60分到94分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_山东_60分到123分_864b4e595a1b2772",
@@ -15282,7 +15340,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/864b4e595a1b2772.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/864b4e595a1b2772.jpg",
               "province": "山东",
-              "scoreText": "60分到123分"
+              "scoreText": "60分到123分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_河南_64分到76分_2f15bb2dfe9d6ae1",
@@ -15292,7 +15351,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2f15bb2dfe9d6ae1.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2f15bb2dfe9d6ae1.jpg",
               "province": "河南",
-              "scoreText": "64分到76分"
+              "scoreText": "64分到76分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_广西_64分到94分_63e0fde427a0bf78",
@@ -15302,7 +15362,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/63e0fde427a0bf78.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/63e0fde427a0bf78.jpg",
               "province": "广西",
-              "scoreText": "64分到94分"
+              "scoreText": "64分到94分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_河南_70分到103分_4ce0d5d92488cdc4",
@@ -15312,7 +15373,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4ce0d5d92488cdc4.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4ce0d5d92488cdc4.jpg",
               "province": "河南",
-              "scoreText": "70分到103分"
+              "scoreText": "70分到103分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_湖北_80分到102分_05140849f6e350ab",
@@ -15322,7 +15384,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/05140849f6e350ab.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/05140849f6e350ab.jpg",
               "province": "湖北",
-              "scoreText": "80分到102分"
+              "scoreText": "80分到102分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_湖北_60分到110分_3c49257c742303f8",
@@ -15332,7 +15395,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3c49257c742303f8.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3c49257c742303f8.jpg",
               "province": "湖北",
-              "scoreText": "60分到110分"
+              "scoreText": "60分到110分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_上海_80分到100分_b6abede41c452777",
@@ -15342,7 +15406,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b6abede41c452777.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b6abede41c452777.jpg",
               "province": "上海",
-              "scoreText": "80分到100分"
+              "scoreText": "80分到100分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_安徽_85分到111分_0d1824a57e3dc16a",
@@ -15352,7 +15417,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0d1824a57e3dc16a.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0d1824a57e3dc16a.jpg",
               "province": "安徽",
-              "scoreText": "85分到111分"
+              "scoreText": "85分到111分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_广西_85分到130分_8c4be182b9ed7c1e",
@@ -15362,7 +15428,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/8c4be182b9ed7c1e.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8c4be182b9ed7c1e.jpg",
               "province": "广西",
-              "scoreText": "85分到130分"
+              "scoreText": "85分到130分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_陕西_70分到104分_2e228085247746e2",
@@ -15372,7 +15439,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2e228085247746e2.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2e228085247746e2.jpg",
               "province": "陕西",
-              "scoreText": "70分到104分"
+              "scoreText": "70分到104分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_湖南_78分到109分_8d4030bb05acf88c",
@@ -15382,7 +15450,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/8d4030bb05acf88c.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8d4030bb05acf88c.jpg",
               "province": "湖南",
-              "scoreText": "78分到109分"
+              "scoreText": "78分到109分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -16378,7 +16447,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2c595818a60cc8db.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2c595818a60cc8db.jpg",
               "province": "广东",
-              "scoreText": "101分到114分"
+              "scoreText": "101分到114分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_内蒙古_90分到100分_cc094450dd3c571e",
@@ -16388,7 +16458,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/cc094450dd3c571e.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/cc094450dd3c571e.jpg",
               "province": "内蒙古",
-              "scoreText": "90分到100分"
+              "scoreText": "90分到100分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_河南_100分到118分_fe6337b19353d57a",
@@ -16398,7 +16469,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/fe6337b19353d57a.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/fe6337b19353d57a.jpg",
               "province": "河南",
-              "scoreText": "100分到118分"
+              "scoreText": "100分到118分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_重庆_90分到120分_f2b1238f3b81936c",
@@ -16408,7 +16480,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f2b1238f3b81936c.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f2b1238f3b81936c.jpg",
               "province": "重庆",
-              "scoreText": "90分到120分"
+              "scoreText": "90分到120分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_湖南_100分到124分_563fcd6379b761d2",
@@ -16418,7 +16491,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/563fcd6379b761d2.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/563fcd6379b761d2.jpg",
               "province": "湖南",
-              "scoreText": "100分到124分"
+              "scoreText": "100分到124分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_北京_100分到129分_299ea0edf03c4294",
@@ -16428,7 +16502,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/299ea0edf03c4294.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/299ea0edf03c4294.jpg",
               "province": "北京",
-              "scoreText": "100分到129分"
+              "scoreText": "100分到129分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_陕西_100分到120分_89b0d9864ff186d2",
@@ -16438,7 +16513,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/89b0d9864ff186d2.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/89b0d9864ff186d2.jpg",
               "province": "陕西",
-              "scoreText": "100分到120分"
+              "scoreText": "100分到120分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_陕西_100分到113分_bbe78f7d159358e5",
@@ -16448,7 +16524,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/bbe78f7d159358e5.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/bbe78f7d159358e5.jpg",
               "province": "陕西",
-              "scoreText": "100分到113分"
+              "scoreText": "100分到113分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_安徽_95分到118分_7ea3e44e5342cbb4",
@@ -16458,7 +16535,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/7ea3e44e5342cbb4.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7ea3e44e5342cbb4.jpg",
               "province": "安徽",
-              "scoreText": "95分到118分"
+              "scoreText": "95分到118分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -16824,7 +16902,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/40f5cfafed10a49c.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/40f5cfafed10a49c.jpg",
               "province": "河北",
-              "scoreText": "110分到121分"
+              "scoreText": "110分到121分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "胡源_江苏_130分到142分_4b825bf798315711",
@@ -16834,7 +16913,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4b825bf798315711.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4b825bf798315711.jpg",
               "province": "江苏",
-              "scoreText": "130分到142分"
+              "scoreText": "130分到142分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -19670,7 +19750,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/8e4e197bafab7403.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8e4e197bafab7403.jpg",
               "province": "内蒙古",
-              "scoreText": "20分到40分"
+              "scoreText": "20分到40分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李楠_云南_37分到58分_790fab0698574dc6",
@@ -19680,7 +19761,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/790fab0698574dc6.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/790fab0698574dc6.jpg",
               "province": "云南",
-              "scoreText": "37分到58分"
+              "scoreText": "37分到58分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -20256,7 +20338,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/59a71bef15ad223a.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/59a71bef15ad223a.jpg",
               "province": "河北",
-              "scoreText": "50分到70分"
+              "scoreText": "50分到70分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李楠_辽宁_47分到84分_fa1fb0e79888d724",
@@ -20266,7 +20349,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/fa1fb0e79888d724.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/fa1fb0e79888d724.jpg",
               "province": "辽宁",
-              "scoreText": "47分到84分"
+              "scoreText": "47分到84分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李楠_山东_58分到86分_e8531b9fe98797d7",
@@ -20276,7 +20360,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e8531b9fe98797d7.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e8531b9fe98797d7.jpg",
               "province": "山东",
-              "scoreText": "58分到86分"
+              "scoreText": "58分到86分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李楠_新疆_41分到74分_223042222cd6d425",
@@ -20286,7 +20371,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/223042222cd6d425.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/223042222cd6d425.jpg",
               "province": "新疆",
-              "scoreText": "41分到74分"
+              "scoreText": "41分到74分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李楠_江西_40分到58分_e2b98e356fe92630",
@@ -20296,7 +20382,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e2b98e356fe92630.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e2b98e356fe92630.jpg",
               "province": "江西",
-              "scoreText": "40分到58分"
+              "scoreText": "40分到58分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -21612,7 +21699,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/5ee8c631a0d293cb.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/5ee8c631a0d293cb.jpg",
               "province": "湖北",
-              "scoreText": "70分到88分"
+              "scoreText": "70分到88分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李楠_浙江_65分到74分_7d84ebb296298095",
@@ -21622,7 +21710,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/7d84ebb296298095.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7d84ebb296298095.jpg",
               "province": "浙江",
-              "scoreText": "65分到74分"
+              "scoreText": "65分到74分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李楠_吉林_60分到92分_923776b0bcc0cfd9",
@@ -21632,7 +21721,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/923776b0bcc0cfd9.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/923776b0bcc0cfd9.jpg",
               "province": "吉林",
-              "scoreText": "60分到92分"
+              "scoreText": "60分到92分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -23518,7 +23608,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/733af26ddd0accd7.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/733af26ddd0accd7.jpg",
               "province": "福建",
-              "scoreText": "58分到73分"
+              "scoreText": "58分到73分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -24064,7 +24155,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/c18e6dbc9a410ffe.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c18e6dbc9a410ffe.jpg",
               "province": "天津",
-              "scoreText": "60分到74分"
+              "scoreText": "60分到74分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -25034,7 +25126,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/82542ef0defa5769.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/82542ef0defa5769.jpg",
               "province": "湖南",
-              "scoreText": "30分到47分"
+              "scoreText": "30分到47分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "莫荒年_江西_18分到29分_b8d30ce04005d3c1",
@@ -25044,7 +25137,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b8d30ce04005d3c1.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b8d30ce04005d3c1.jpg",
               "province": "江西",
-              "scoreText": "18分到29分"
+              "scoreText": "18分到29分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -27082,7 +27176,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e117463459a3aa4f.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e117463459a3aa4f.jpg",
               "province": "广西",
-              "scoreText": "41分到86分"
+              "scoreText": "41分到86分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "宁志远_陕西_50分到60分_e67ce219e3930927",
@@ -27092,7 +27187,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e67ce219e3930927.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e67ce219e3930927.jpg",
               "province": "陕西",
-              "scoreText": "50分到60分"
+              "scoreText": "50分到60分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -27894,7 +27990,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/bd2203a8e4dc0136.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/bd2203a8e4dc0136.jpg",
               "province": "黑龙江",
-              "scoreText": "45分到83分"
+              "scoreText": "45分到83分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -28324,7 +28421,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/cd8359c0758ce73f.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/cd8359c0758ce73f.jpg",
               "province": "四川",
-              "scoreText": "80分到99分"
+              "scoreText": "80分到99分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "贾岚_山东_60分到93分_60d1173041485cb7",
@@ -28334,7 +28432,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/60d1173041485cb7.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/60d1173041485cb7.jpg",
               "province": "山东",
-              "scoreText": "60分到93分"
+              "scoreText": "60分到93分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -28380,7 +28479,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/27c737588dff6b86.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/27c737588dff6b86.jpg",
               "province": "湖南",
-              "scoreText": "91.5分到110分"
+              "scoreText": "91.5分到110分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "贾岚_四川_90分到113.5分_f06121f09b262407",
@@ -28390,7 +28490,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f06121f09b262407.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f06121f09b262407.jpg",
               "province": "四川",
-              "scoreText": "90分到113.5分"
+              "scoreText": "90分到113.5分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -28436,7 +28537,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/904f025025e41419.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/904f025025e41419.jpg",
               "province": "山东",
-              "scoreText": "110分到126分"
+              "scoreText": "110分到126分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -28880,7 +28982,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3146073f4844a7e8.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3146073f4844a7e8.jpg",
               "province": "山东",
-              "scoreText": "50分到75分"
+              "scoreText": "50分到75分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李辉_山东_30分到72分_f60662172c91167f",
@@ -28890,7 +28993,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f60662172c91167f.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f60662172c91167f.jpg",
               "province": "山东",
-              "scoreText": "30分到72分"
+              "scoreText": "30分到72分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李辉_浙江_50分到70.5分_4f67298e5429c3a4",
@@ -28900,7 +29004,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4f67298e5429c3a4.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4f67298e5429c3a4.jpg",
               "province": "浙江",
-              "scoreText": "50分到70.5分"
+              "scoreText": "50分到70.5分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -29956,7 +30061,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/df3114eefbec318d.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/df3114eefbec318d.jpg",
               "province": "四川",
-              "scoreText": "77分到107.5分"
+              "scoreText": "77分到107.5分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李辉_广东_60分到100分_df7b062261fc5058",
@@ -29966,7 +30072,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/df7b062261fc5058.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/df7b062261fc5058.jpg",
               "province": "广东",
-              "scoreText": "60分到100分"
+              "scoreText": "60分到100分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李辉_广东_67分到99分_c86ae2e856a7993a",
@@ -29976,7 +30083,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/c86ae2e856a7993a.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c86ae2e856a7993a.jpg",
               "province": "广东",
-              "scoreText": "67分到99分"
+              "scoreText": "67分到99分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -30672,7 +30780,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b764924a51d58fb8.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b764924a51d58fb8.jpg",
               "province": "湖南",
-              "scoreText": "100分到121分"
+              "scoreText": "100分到121分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李辉_重庆_107分到124分_d9660bea8d23da6a",
@@ -30682,7 +30791,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/d9660bea8d23da6a.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/d9660bea8d23da6a.jpg",
               "province": "重庆",
-              "scoreText": "107分到124分"
+              "scoreText": "107分到124分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李辉_湖南_100分到120分_bf6176526f5f2f77",
@@ -30692,7 +30802,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/bf6176526f5f2f77.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/bf6176526f5f2f77.jpg",
               "province": "湖南",
-              "scoreText": "100分到120分"
+              "scoreText": "100分到120分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李辉_宁夏_107分到120.5分_1319eee71bdef559",
@@ -30702,7 +30813,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/1319eee71bdef559.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/1319eee71bdef559.jpg",
               "province": "宁夏",
-              "scoreText": "107分到120.5分"
+              "scoreText": "107分到120.5分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "李辉_贵州_94分到119分_00f6e3cb1674569f",
@@ -30712,7 +30824,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/00f6e3cb1674569f.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/00f6e3cb1674569f.jpg",
               "province": "贵州",
-              "scoreText": "94分到119分"
+              "scoreText": "94分到119分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -30938,7 +31051,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4ff084cdd5945e1d.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4ff084cdd5945e1d.jpg",
               "province": "新疆",
-              "scoreText": "110分到126分"
+              "scoreText": "110分到126分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -31182,7 +31296,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/21d7788f24fba2ee.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/21d7788f24fba2ee.jpg",
               "province": "陕西",
-              "scoreText": "50分到71.5分"
+              "scoreText": "50分到71.5分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "漆纯伊_浙江_46分到80分_a3ac3bc67d13cc5e",
@@ -31192,7 +31307,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a3ac3bc67d13cc5e.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a3ac3bc67d13cc5e.jpg",
               "province": "浙江",
-              "scoreText": "46分到80分"
+              "scoreText": "46分到80分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -31318,7 +31434,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/aa2261b71f7c0170.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/aa2261b71f7c0170.jpg",
               "province": "安徽",
-              "scoreText": "70分到95分"
+              "scoreText": "70分到95分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "漆纯伊_江苏_70分到98分_edaf178c85036ec0",
@@ -31328,7 +31445,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/edaf178c85036ec0.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/edaf178c85036ec0.jpg",
               "province": "江苏",
-              "scoreText": "70分到98分"
+              "scoreText": "70分到98分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -31364,7 +31482,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/039ab26fc38952fa.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/039ab26fc38952fa.jpg",
               "province": "河南",
-              "scoreText": "100分到118分"
+              "scoreText": "100分到118分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -32816,7 +32935,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f52e1f9be094831d.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f52e1f9be094831d.jpg",
               "province": "广东",
-              "scoreText": "25分到67分"
+              "scoreText": "25分到67分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -33738,7 +33858,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a3a8d034111993f8.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a3a8d034111993f8.jpg",
               "province": "河南",
-              "scoreText": "100分到118.5分"
+              "scoreText": "100分到118.5分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -34864,7 +34985,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0a4ffc8cf724f335.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0a4ffc8cf724f335.jpg",
               "province": "山西",
-              "scoreText": "88分到115分"
+              "scoreText": "88分到115分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "姜博杨_河南_85分到104.5分_67c6c7115e1bc998",
@@ -34874,7 +34996,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/67c6c7115e1bc998.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/67c6c7115e1bc998.jpg",
               "province": "河南",
-              "scoreText": "85分到104.5分"
+              "scoreText": "85分到104.5分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "姜博杨_江苏_68分到91分_ffa029bfe7d969f1",
@@ -34884,7 +35007,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/ffa029bfe7d969f1.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/ffa029bfe7d969f1.jpg",
               "province": "江苏",
-              "scoreText": "68分到91分"
+              "scoreText": "68分到91分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -36010,7 +36134,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/375a7531bb6a759a.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/375a7531bb6a759a.jpg",
               "province": "湖北",
-              "scoreText": "103分到116分"
+              "scoreText": "103分到116分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -39868,7 +39993,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/c63693253e39dd1c.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c63693253e39dd1c.jpg",
               "province": "新疆",
-              "scoreText": "25分到88分"
+              "scoreText": "25分到88分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -40104,7 +40230,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/8f58ed81d3cac1d0.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/8f58ed81d3cac1d0.jpg",
               "province": "吉林",
-              "scoreText": "56分到71分"
+              "scoreText": "56分到71分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -40574,7 +40701,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/fa386b339c69f36b.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/fa386b339c69f36b.jpg",
               "province": "安徽",
-              "scoreText": "41.5分到86.5分"
+              "scoreText": "41.5分到86.5分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "杨文哲_福建_50分到73.5分_f5d8570b511a97a7",
@@ -40584,7 +40712,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f5d8570b511a97a7.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f5d8570b511a97a7.jpg",
               "province": "福建",
-              "scoreText": "50分到73.5分"
+              "scoreText": "50分到73.5分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -40600,7 +40729,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/12494bb89aa738b5.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/12494bb89aa738b5.jpg",
               "province": "湖北",
-              "scoreText": "76分到103分"
+              "scoreText": "76分到103分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "杨文哲_辽宁_60分到96.5分_684a81c1cab433df",
@@ -40610,7 +40740,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/684a81c1cab433df.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/684a81c1cab433df.jpg",
               "province": "辽宁",
-              "scoreText": "60分到96.5分"
+              "scoreText": "60分到96.5分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "杨文哲_贵州_89分到119分_de0ad5aeae70ae3c",
@@ -40620,7 +40751,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/de0ad5aeae70ae3c.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/de0ad5aeae70ae3c.jpg",
               "province": "贵州",
-              "scoreText": "89分到119分"
+              "scoreText": "89分到119分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "杨文哲_安徽_70分到100.5分_bb5c4c9ab0cbbf7d",
@@ -40630,7 +40762,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/bb5c4c9ab0cbbf7d.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/bb5c4c9ab0cbbf7d.jpg",
               "province": "安徽",
-              "scoreText": "70分到100.5分"
+              "scoreText": "70分到100.5分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "杨文哲_云南_89分到101分_f53c604a2046d62a",
@@ -40640,7 +40773,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/f53c604a2046d62a.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f53c604a2046d62a.jpg",
               "province": "云南",
-              "scoreText": "89分到101分"
+              "scoreText": "89分到101分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -40656,7 +40790,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4e12ac77ee2e8453.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4e12ac77ee2e8453.jpg",
               "province": "广东",
-              "scoreText": "90分到112分"
+              "scoreText": "90分到112分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "杨文哲_河南_90分到115分_97b5b4510b71dc83",
@@ -40666,7 +40801,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/97b5b4510b71dc83.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/97b5b4510b71dc83.jpg",
               "province": "河南",
-              "scoreText": "90分到115分"
+              "scoreText": "90分到115分",
+              "importedAt": "2026-10-29"
             },
             {
               "name": "杨文哲_河南_101分到116分_63c7c7c8c2383ef0",
@@ -40676,7 +40812,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/63c7c7c8c2383ef0.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/63c7c7c8c2383ef0.jpg",
               "province": "河南",
-              "scoreText": "101分到116分"
+              "scoreText": "101分到116分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -40692,7 +40829,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0607d20df9402aa3.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0607d20df9402aa3.jpg",
               "province": "河北",
-              "scoreText": "110分到125.5分"
+              "scoreText": "110分到125.5分",
+              "importedAt": "2026-10-29"
             }
           ]
         },
@@ -40790,7 +40928,8 @@ window.CASE_DATA = {
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/6d40f00e3a1bf46f.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6d40f00e3a1bf46f.jpg",
               "province": "湖南",
-              "scoreText": "30分到54分"
+              "scoreText": "30分到54分",
+              "importedAt": "2026-10-29"
             }
           ]
         },

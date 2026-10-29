@@ -108,15 +108,15 @@
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script src="./data.js"></script>
+  <script src="./data.js?v=20261029-new-cases"></script>
   <script>
     (() => {
-      const hiddenTeachers = new Set(["刘雯韬", "赵晨曦", "乔凯"]);
+      const hiddenTeachers = new Set(["刘雯韬"]);
       if (window.CASE_DATA && Array.isArray(window.CASE_DATA.teachers)) {
         window.CASE_DATA.teachers = window.CASE_DATA.teachers.filter((teacher) => !hiddenTeachers.has(teacher.name));
       }
     })();
   </script>
-  <script src="./app.js"></script>
+  <script src="./app.js?v=20261029-new-cases"></script>
 </body>
 </html>

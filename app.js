@@ -220,7 +220,8 @@ function matchedCases(teacher) {
 
   return bands
     .flatMap((band) => band.cases.map((item) => ({ ...item, band: band.name })))
-    .filter((item) => province === ALL || item.province === province);
+    .filter((item) => province === ALL || item.province === province)
+    .sort((a, b) => (b.importedAt || "").localeCompare(a.importedAt || ""));
 }
 
 function renderCases(teacher) {

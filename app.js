@@ -166,9 +166,10 @@ function updateProvinceMenu() {
   });
 }
 
-function imageCard(item, title, meta = "", context = {}) {
+function imageCard(item, title, meta = "", context = {}, longPoster = false) {
   const card = document.createElement("article");
   card.className = "image-card";
+  if (longPoster) card.classList.add("long-poster-card");
 
   const preview = document.createElement("button");
   preview.className = "image-wrap";
@@ -181,6 +182,12 @@ function imageCard(item, title, meta = "", context = {}) {
   image.loading = "lazy";
   image.decoding = "async";
   preview.appendChild(image);
+  if (longPoster) {
+    const hint = document.createElement("span");
+    hint.className = "long-poster-hint";
+    hint.textContent = "点击查看长图";
+    preview.appendChild(hint);
+  }
 
   const footer = document.createElement("div");
   footer.className = "card-footer";
@@ -208,7 +215,7 @@ function renderProfiles(teacher) {
     profileGrid.appendChild(imageCard(item, item.name, `${teacher.name}｜${item.name}`, {
       ...teacherAnalytics(teacher),
       content_type: "teacher_profile",
-    }));
+    }, teacher.name === "莫荒年" && ["优秀学员", "提分案例"].includes(item.name)));
   });
   teacherMeta.textContent = `${teacher.name}｜${teacher.subject || "学科"}｜共 ${teacher.profileImages.length} 张海报`;
 }

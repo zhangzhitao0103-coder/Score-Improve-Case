@@ -700,6 +700,29 @@ button {
   object-fit: contain;
 }
 
+.long-poster-card .image-wrap {
+  position: relative;
+  display: block;
+  padding: 0;
+}
+
+.long-poster-card .image-wrap img {
+  object-fit: cover;
+  object-position: top center;
+}
+
+.long-poster-hint {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  padding: 5px 10px;
+  border-radius: 999px;
+  color: #fff;
+  background: rgba(12, 35, 75, 0.84);
+  font-size: 12px;
+  font-weight: 700;
+}
+
 .card-footer {
   display: flex;
   gap: 10px;

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>有道领世名师团提分案例</title>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%231677FF'/%3E%3Cpath d='M8 21h16M8 16h10M8 11h16' stroke='white' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
-  <link rel="stylesheet" href="./styles.css?v=20260612-ui2">
+  <link rel="stylesheet" href="./styles.css?v=20261110-sprint12">
   <script>
     !function(t,e){var o,n,p,r;e.__SV||(window.posthog && window.posthog.__loaded)||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="Xi tn init mn Qr yn xn pn capture calculateEventProperties Tn register register_once register_for_session unregister unregister_for_session Pn getFeatureFlag getFeatureFlagPayload getFeatureFlagResult isFeatureEnabled reloadFeatureFlags updateFlags updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures on onFeatureFlags onSurveysLoaded onSessionId getSurveys getActiveMatchingSurveys renderSurvey displaySurvey cancelPendingSurvey canRenderSurvey canRenderSurveyAsync On identify setPersonProperties group resetGroups setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags reset setIdentity clearIdentity get_distinct_id getGroups get_session_id get_session_replay_url alias set_config startSessionRecording stopSessionRecording sessionRecordingStarted captureException addExceptionStep captureLog startExceptionAutocapture stopExceptionAutocapture loadToolbar get_property getSessionProperty Mn Cn createPersonProfile setInternalOrTestUser Rn vn Fn opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing get_explicit_consent_status is_capturing clear_opt_in_out_capturing kn debug Kr En getPageViewId captureTraceFeedback captureTraceMetric hn".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
     posthog.init('phc_x4f8nnybtCVSXC2iS8EUicQgVYvDcZFfDaVfc8ZqRzrP', {
@@ -19,19 +19,19 @@
 </head>
 <body>
   <main class="page-shell">
-    <section class="hero">
-      <div class="hero-visual left">
-        <div class="chart-card"><span></span><span></span><span></span></div>
-        <div class="arrow-line"></div>
-      </div>
-      <div class="hero-copy">
+    <section class="hero hero-reference" aria-label="有道领世名师团提分案例">
+      <div class="hero-live-copy">
+        <div class="hero-live-kicker">YOUDAO LINGSHI · TEACHER ACHIEVEMENT</div>
         <h1>有道领世名师团提分案例</h1>
-        <p>高效学习 从有道领世开始</p>
+        <p>高效学习，从有道领世开始 · 真实记录每一次成长与突破</p>
+        <div class="hero-live-tags"><span>✓ 成绩提升看得见</span><span>名师教学成果</span><span>真实学员成长</span></div>
       </div>
-      <div class="hero-visual right">
-        <div class="clipboard"><span></span><span></span><span></span></div>
-        <div class="shield"></div>
-      </div>
+      <div class="hero-live-max"><span>REAL SCORE ACHIEVEMENT</span><strong id="heroMaxScore">—</strong><small>当前案例最高提分</small></div>
+      <div class="hero-case hero-case-one"><strong>+13</strong></div>
+      <div class="hero-case hero-case-two"><strong>+27</strong></div>
+      <div class="hero-case hero-case-three"><strong>+40</strong></div>
+      <span class="hero-flag">突破</span>
+      <span class="hero-upgrade" aria-hidden="true">UPGRADE</span>
     </section>
 
     <div class="app-layout">
@@ -75,7 +75,7 @@
           <header class="section-header">
             <div class="section-title">
               <span class="section-icon"></span>
-              <h2>老师个人介绍</h2>
+              <div><h2>名师个人介绍</h2><div class="section-subtitle">TEACHER PROFILE · TEACHING METHOD · STUDENT SUCCESS</div></div>
             </div>
             <p id="teacherMeta"></p>
           </header>
@@ -86,7 +86,7 @@
           <header class="section-header">
             <div class="section-title">
               <span class="section-icon document"></span>
-              <h2>提分案例结果</h2>
+              <div><h2>提分案例结果</h2><div class="section-subtitle">SCORE IMPROVEMENT · REAL STUDENT STORIES</div></div>
             </div>
             <p id="resultMeta"></p>
           </header>
@@ -111,12 +111,18 @@
   <script src="./data.js?v=20261029-new-cases"></script>
   <script>
     (() => {
-      const hiddenTeachers = new Set(["刘雯韬"]);
+      const hiddenTeachers = new Set(["刘雯韬", "于越", "王震"]);
       if (window.CASE_DATA && Array.isArray(window.CASE_DATA.teachers)) {
         window.CASE_DATA.teachers = window.CASE_DATA.teachers.filter((teacher) => !hiddenTeachers.has(teacher.name));
+        const changes = window.CASE_DATA.teachers.flatMap((teacher) => teacher.scoreBands.flatMap((band) => band.cases.map((item) => {
+          const match = (item.scoreText || "").match(/(\d+(?:\.\d+)?)(?:多)?分?到(\d+(?:\.\d+)?)(?:多)?分?/);
+          return match ? Number(match[2]) - Number(match[1]) : null;
+        }))).filter((change) => change !== null && Number.isFinite(change));
+        const maximum = changes.length ? Math.max(...changes) : null;
+        document.getElementById("heroMaxScore").textContent = maximum === null ? "—" : `+${Number(maximum.toFixed(2))}`;
       }
     })();
   </script>
-  <script src="./app.js?v=20261029-new-cases"></script>
+  <script src="./app.js?v=20261110-sprint12"></script>
 </body>
 </html>

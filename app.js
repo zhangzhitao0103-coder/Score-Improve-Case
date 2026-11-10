@@ -168,7 +168,7 @@ function updateProvinceMenu() {
 
 function imageCard(item, title, meta = "", context = {}) {
   const card = document.createElement("article");
-  card.className = "image-card";
+  card.className = "image-card " + (context.content_type === "score_case" ? "score-card" : "profile-card");
 
   const preview = document.createElement("button");
   preview.className = "image-wrap";
@@ -197,8 +197,31 @@ function imageCard(item, title, meta = "", context = {}) {
   button.setAttribute("aria-label", "复制素材");
   button.addEventListener("click", () => copyImage(item, button, context));
 
+  if (context.content_type === "score_case") {
+    const match = (item.scoreText || "").match(/(\d+(?:\.\d+)?)(?:多)?分?到(\d+(?:\.\d+)?)(?:多)?分?/);
+    const details = document.createElement("div");
+    details.className = "score-details";
+    if (match) {
+      const before = Number(match[1]), after = Number(match[2]);
+      const row = document.createElement("div");
+      row.className = "score-row";
+      const change = Number((after - before).toFixed(2));
+      row.innerHTML = `<div><small>提升前</small><b>${before}</b></div><span class="score-arrow">→</span><div class="after"><small>提升后</small><b>${after}</b></div><strong class="score-delta">${change > 0 ? "+" : ""}${change} 分</strong>`;
+      details.appendChild(row);
+      if (change > 0) {
+        const badge = document.createElement("span");
+        badge.className = "delta-badge";
+        badge.textContent = `+${change} 分`;
+        preview.appendChild(badge);
+      }
+    }
+    card.append(preview);
+    if (match) card.appendChild(details);
+  } else {
+    card.append(preview);
+  }
   footer.append(name, button);
-  card.append(preview, footer);
+  card.append(footer);
   return card;
 }
 

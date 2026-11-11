@@ -9446,32 +9446,12 @@ window.CASE_DATA = {
               "scoreText": "49分到94分"
             },
             {
-              "name": "白瑞芳_49分到94分_2",
-              "fileName": "白瑞芳_49分到94分_2.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2e0c7290114e22e1.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2e0c7290114e22e1.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2e0c7290114e22e1.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2e0c7290114e22e1.jpg",
-              "province": "",
-              "scoreText": "49分到94分_2"
-            },
-            {
               "name": "白瑞芳_50分到80分",
               "fileName": "白瑞芳_50分到80分.jpeg",
               "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5e0fb4fefcfd0f9b.webp",
               "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5e0fb4fefcfd0f9b.webp",
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/5e0fb4fefcfd0f9b.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/5e0fb4fefcfd0f9b.jpg",
-              "province": "",
-              "scoreText": "50分到80分"
-            },
-            {
-              "name": "白瑞芳_50分到80分",
-              "fileName": "白瑞芳_50分到80分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/005e0a25f5caecd1.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/005e0a25f5caecd1.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/005e0a25f5caecd1.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/005e0a25f5caecd1.png",
               "province": "",
               "scoreText": "50分到80分"
             },
@@ -9486,32 +9466,12 @@ window.CASE_DATA = {
               "scoreText": "50分到89分"
             },
             {
-              "name": "白瑞芳_50分到89分_2",
-              "fileName": "白瑞芳_50分到89分_2.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/501148d6c96d659c.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/501148d6c96d659c.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/501148d6c96d659c.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/501148d6c96d659c.jpg",
-              "province": "",
-              "scoreText": "50分到89分_2"
-            },
-            {
               "name": "白瑞芳_55分到78分",
               "fileName": "白瑞芳_55分到78分.jpeg",
               "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/d5f848b06e07eb81.webp",
               "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/d5f848b06e07eb81.webp",
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/d5f848b06e07eb81.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/d5f848b06e07eb81.jpg",
-              "province": "",
-              "scoreText": "55分到78分"
-            },
-            {
-              "name": "白瑞芳_55分到78分",
-              "fileName": "白瑞芳_55分到78分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3e0f0871bf9e1041.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3e0f0871bf9e1041.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3e0f0871bf9e1041.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3e0f0871bf9e1041.png",
               "province": "",
               "scoreText": "55分到78分"
             },
@@ -9524,16 +9484,6 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/feca3e4ec34dafe4.jpg",
               "province": "",
               "scoreText": "56分到71分"
-            },
-            {
-              "name": "白瑞芳_56分到71分_2",
-              "fileName": "白瑞芳_56分到71分_2.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/03a339abb852be6f.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/03a339abb852be6f.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/03a339abb852be6f.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/03a339abb852be6f.jpg",
-              "province": "",
-              "scoreText": "56分到71分_2"
             },
             {
               "name": "白瑞芳_59分到99分",
@@ -9556,32 +9506,12 @@ window.CASE_DATA = {
               "scoreText": "49分到94分"
             },
             {
-              "name": "白瑞芳_重庆_49分到94分",
-              "fileName": "白瑞芳_重庆_49分到94分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9c438d0adcacf248.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9c438d0adcacf248.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/9c438d0adcacf248.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/9c438d0adcacf248.png",
-              "province": "重庆",
-              "scoreText": "49分到94分"
-            },
-            {
               "name": "白瑞芳_甘肃_59分到99分",
               "fileName": "白瑞芳_甘肃_59分到99分.jpeg",
               "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/fed83b9dd0fc3395.webp",
               "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/fed83b9dd0fc3395.webp",
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/fed83b9dd0fc3395.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/fed83b9dd0fc3395.jpg",
-              "province": "甘肃",
-              "scoreText": "59分到99分"
-            },
-            {
-              "name": "白瑞芳_甘肃_59分到99分",
-              "fileName": "白瑞芳_甘肃_59分到99分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a58bb15f38226f2e.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/a58bb15f38226f2e.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/a58bb15f38226f2e.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/a58bb15f38226f2e.png",
               "province": "甘肃",
               "scoreText": "59分到99分"
             },
@@ -9594,26 +9524,6 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6da6ab88d550b609.jpg",
               "province": "广西",
               "scoreText": "30分到64分"
-            },
-            {
-              "name": "白瑞芳_广西_30分到64分",
-              "fileName": "白瑞芳_广西_30分到64分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/d6ad2841b78c35b3.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/d6ad2841b78c35b3.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/d6ad2841b78c35b3.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/d6ad2841b78c35b3.png",
-              "province": "广西",
-              "scoreText": "30分到64分"
-            },
-            {
-              "name": "白瑞芳_广西_30分到64分_2",
-              "fileName": "白瑞芳_广西_30分到64分_2.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/df1ad9ae51dceefe.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/df1ad9ae51dceefe.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/df1ad9ae51dceefe.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/df1ad9ae51dceefe.jpg",
-              "province": "广西",
-              "scoreText": "30分到64分_2"
             },
             {
               "name": "白瑞芳_河南_37到103",
@@ -9654,16 +9564,6 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/f104c60c9aec761e.png",
               "province": "河南",
               "scoreText": "50分到135分"
-            },
-            {
-              "name": "白瑞芳_河南_50分到135分_2",
-              "fileName": "白瑞芳_河南_50分到135分_2.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2dd0cd2c22cb910d.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/2dd0cd2c22cb910d.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/2dd0cd2c22cb910d.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/2dd0cd2c22cb910d.png",
-              "province": "河南",
-              "scoreText": "50分到135分_2"
             },
             {
               "name": "白瑞芳_河南_55分到78分",
@@ -9752,16 +9652,6 @@ window.CASE_DATA = {
               "scoreText": "83分到101分"
             },
             {
-              "name": "白瑞芳_83分到101分",
-              "fileName": "白瑞芳_83分到101分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/56628ade6b50fa31.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/56628ade6b50fa31.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/56628ade6b50fa31.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/56628ade6b50fa31.png",
-              "province": "",
-              "scoreText": "83分到101分"
-            },
-            {
               "name": "白瑞芳_北京_80到109",
               "fileName": "白瑞芳_北京_80到109.png",
               "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/96e3b341895752d3.webp",
@@ -9778,16 +9668,6 @@ window.CASE_DATA = {
               "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/0e127a09ed8a956b.webp",
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/0e127a09ed8a956b.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0e127a09ed8a956b.jpg",
-              "province": "重庆",
-              "scoreText": "64分到101分"
-            },
-            {
-              "name": "白瑞芳_重庆_64分到101分",
-              "fileName": "白瑞芳_重庆_64分到101分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e7326f6985a3a392.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e7326f6985a3a392.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e7326f6985a3a392.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e7326f6985a3a392.png",
               "province": "重庆",
               "scoreText": "64分到101分"
             },
@@ -9820,16 +9700,6 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/c29285d0feec13bf.png",
               "province": "河南",
               "scoreText": "70分到137分"
-            },
-            {
-              "name": "白瑞芳_河南_70分到137分_2",
-              "fileName": "白瑞芳_河南_70分到137分_2.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/23cf24b65dc5aac5.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/23cf24b65dc5aac5.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/23cf24b65dc5aac5.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/23cf24b65dc5aac5.png",
-              "province": "河南",
-              "scoreText": "70分到137分_2"
             },
             {
               "name": "白瑞芳_河南_80分到129分",
@@ -9880,26 +9750,6 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/68acc1c3987d85c7.jpg",
               "province": "山西",
               "scoreText": "65分到90分"
-            },
-            {
-              "name": "白瑞芳_山西_65分到90分",
-              "fileName": "白瑞芳_山西_65分到90分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3acf0bbbe561b8bf.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/3acf0bbbe561b8bf.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/3acf0bbbe561b8bf.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/3acf0bbbe561b8bf.png",
-              "province": "山西",
-              "scoreText": "65分到90分"
-            },
-            {
-              "name": "白瑞芳_山西_65分到90分_2",
-              "fileName": "白瑞芳_山西_65分到90分_2.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6c54169b06041c76.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/6c54169b06041c76.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/6c54169b06041c76.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/6c54169b06041c76.jpg",
-              "province": "山西",
-              "scoreText": "65分到90分_2"
             },
             {
               "name": "白瑞芳_浙江_60到95",
@@ -10054,16 +9904,6 @@ window.CASE_DATA = {
               "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b44adf341410a31f.webp",
               "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b44adf341410a31f.webp",
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b44adf341410a31f.jpg",
-              "province": "河南",
-              "scoreText": "90分到103分"
-            },
-            {
-              "name": "白瑞芳_河南_90分到103分",
-              "fileName": "白瑞芳_河南_90分到103分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e49404c7f1cd3ffe.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e49404c7f1cd3ffe.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e49404c7f1cd3ffe.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e49404c7f1cd3ffe.png",
               "province": "河南",
               "scoreText": "90分到103分"
             },
@@ -10460,16 +10300,6 @@ window.CASE_DATA = {
               "scoreText": "提升15分"
             },
             {
-              "name": "白瑞芳_江西_提升15分_2",
-              "fileName": "白瑞芳_江西_提升15分_2.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/bcef0f652215a502.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/bcef0f652215a502.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/bcef0f652215a502.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/bcef0f652215a502.jpg",
-              "province": "江西",
-              "scoreText": "提升15分_2"
-            },
-            {
               "name": "白瑞芳_解题速度提升",
               "fileName": "白瑞芳_解题速度提升.png",
               "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/5989672daff810c1.webp",
@@ -10498,36 +10328,6 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b73576ffd2a00010.jpg",
               "province": "",
               "scoreText": "课程好评"
-            },
-            {
-              "name": "白瑞芳_课程好评",
-              "fileName": "白瑞芳_课程好评.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/25e2925b54b20a7e.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/25e2925b54b20a7e.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/25e2925b54b20a7e.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/25e2925b54b20a7e.png",
-              "province": "",
-              "scoreText": "课程好评"
-            },
-            {
-              "name": "白瑞芳_课程好评_2",
-              "fileName": "白瑞芳_课程好评_2.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b446eec8e58ea437.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b446eec8e58ea437.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b446eec8e58ea437.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b446eec8e58ea437.jpg",
-              "province": "",
-              "scoreText": "课程好评_2"
-            },
-            {
-              "name": "白瑞芳_课程好评_2",
-              "fileName": "白瑞芳_课程好评_2.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7688fdb5caaf7786.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/7688fdb5caaf7786.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/7688fdb5caaf7786.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/7688fdb5caaf7786.png",
-              "province": "",
-              "scoreText": "课程好评_2"
             },
             {
               "name": "白瑞芳_课程好评_2_2",
@@ -10588,16 +10388,6 @@ window.CASE_DATA = {
               "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/0cf33e0c2f8aeea4.jpg",
               "province": "",
               "scoreText": "期末数学及格新纪录"
-            },
-            {
-              "name": "白瑞芳_期末数学及格新纪录_2",
-              "fileName": "白瑞芳_期末数学及格新纪录_2.jpeg",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9f45630528b527ce.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/9f45630528b527ce.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/9f45630528b527ce.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/9f45630528b527ce.jpg",
-              "province": "",
-              "scoreText": "期末数学及格新纪录_2"
             },
             {
               "name": "白瑞芳_山东_考入清华大学",

@@ -32869,14 +32869,14 @@ window.CASE_DATA = {
               "scoreText": "八十九十多分到114分"
             },
             {
-              "name": "姜博杨_北京_70分到95分",
-              "fileName": "姜博杨_北京_70分到95分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b864ef818a4205dd.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/b864ef818a4205dd.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/b864ef818a4205dd.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/b864ef818a4205dd.png",
+              "name": "姜博杨_北京_70分到105分",
+              "fileName": "姜博杨_北京_70分到105分.png",
+              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4d6420913f34df6b.webp",
+              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4d6420913f34df6b.webp",
+              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/4d6420913f34df6b.webp",
+              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/4d6420913f34df6b.png",
               "province": "北京",
-              "scoreText": "70分到95分"
+              "scoreText": "70分到105分"
             },
             {
               "name": "姜博杨_春考60多分到101分",

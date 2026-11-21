@@ -17261,16 +17261,6 @@ window.CASE_DATA = {
               "scoreText": "40多分到90多分"
             },
             {
-              "name": "王冬亮_安徽_53分到89分",
-              "fileName": "王冬亮_安徽_53分到89分.png",
-              "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e7159573feff3f6b.webp",
-              "thumbUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/e7159573feff3f6b.webp",
-              "previewUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/previews/e7159573feff3f6b.webp",
-              "imageUrl": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/originals/e7159573feff3f6b.png",
-              "province": "安徽",
-              "scoreText": "53分到89分"
-            },
-            {
               "name": "王冬亮_北京_40分到68分",
               "fileName": "王冬亮_北京_40分到68分.jpeg",
               "src": "https://pub-d82b16008394428c95e42b68dcde148f.r2.dev/thumbs/4b778b5c4a63a9cf.webp",
